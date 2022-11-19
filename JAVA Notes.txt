@@ -1,0 +1,10230 @@
+PROBLEM SOLVING:
+----------------
+
+
+iQ:"ZERO"
+
+1.UNDERSTANDING THE PROBLEM
+2.ANALYZE THE PROBLEM
+3.DEVELOPING THE SOLUTION
+4.CODING AND IMPLEMNTATION
+
+ALGORITHEMS:
+-----------
+
+ A SET OF SEQUENTIAL STEPS USAUALY 
+
+FLOWCHARTS:
+===========
+A FLOW CHART IS A STEP BY STEP DIAGRAMATIC REPRESENTATION OF THE LOGIC PATHS TO  GIVEN PROBLEM,
+
+* 
+
+PSUEDO CODES
+
+
+1.IDENTIFICATION OF INPUT
+
+2. IDENTIFICATION OF OUTPUT
+
+3.PROCESSING OPERATIONS
+
+
+
+
+
+
+AVERAGE OF THREE NUMBERS:
+-------------------------
+STEP 1:READ THE NUMBERS A,B,C 
+
+STEP 2: COMPUTE THE SUM OF A,B AND C 
+
+STEP 3: DIVIDE THE SUM BY 3
+
+STEP 4: STORE THE RESULT D 
+
+STEP 5:PRINT THE VALUE OF D 
+
+STEP 6: END OF THE PROGRAM
+
+
+
+
+
+
+
+SIMPLE INTREST:
+==============
+
+STEP 1: READ THE THREE INPUT P N R
+
+STEP 2: CALCULATE THE SIMPLE INTREST
+
+         SIMPLE INTREST= P*N*R/100
+STEP 3:PRINT THE SIMPLE INTREST
+
+STEP 4: STOP
+
+
+
+FLOW CHART EXAMPLE:
+===================
+
+DRAW A FLOWCHART TO FIND OUT THE BIGGEST OF THE 3 UNEQUAL POSITIVE NUMBERS.
+
+
+
+PSEUDO CODE:
+============
+READ N1, N2
+
+SUM=N1+N2
+
+SUB=N1-N2 
+
+MUL=N1*N2 
+
+DIVID=N1/N2 
+
+
+
+ALGORITHMS:
+-----------
+X,Y,Z   FIND LARGEST NUMBER 
+
+STEP 1: READ THE INPUTS X,Y,Z 
+STEP 2:  if(X>Y)
+            Big=X
+			
+		else 
+		Big=Y
+		
+step 3: if (big<z)
+step 4: big=z
+step 5: print the largest number i . e big 
+step 6: stop
+
+
+draw a flowchart to find factorial of given positive integer N.
+
+
+
+*****************28-1-22*******************
+
+operating system:
+================
+
+
+software:
+----------
+
+software is a collection of computer programs and related to data that providing instructions to the computer
+what to do, how to do.
+
+
+types of softwares:
+-------------------
+
+1.system softwares 
+
+      a. operating System
+	          os is a software which operates all hardware components
+			  
+			  high level lang to low level lang(user to machine) system(os to hardware and hardware os)
+	  b. System utilities(drivers)
+              the main functio which are doing in the "os" Didck cleaning, disk defragments,spliters,system restore
+			  
+			  disck cleanup:
+			  --------------
+			     *   temporary files, coockies,
+			 disk defragments:
+			 ----------------
+			 speed up rearranging files in contiguos storage location.
+			 
+			 disk compressors and archivers:
+			 -------------------------------
+			 
+			 improve the computer functionality,perfomance also increased.
+			 
+               
+
+
+2.application software:
+=======================
+it is used to reach / meant end user requirements.
+
+ex:  word, databases, browser,presentations....
+ 
+
+functionalities of OS:
+======================
+1. memory management (primary (RAM) and secondary(ROM))
+2. file management  (file name,file size, number of lines files )
+3. security(not related to hacking, multiprocessess )
+4. disc management
+5.networking 
+6.communications
+7.program executions 
+8.process management
+
+services:
+--------
+
+1.program execution (java,python,php,)---->interpreter
+
+
+
+2. i/o operations (touch pen,keyboard)
+
+
+types of operating system:
+-------------------------
+
+1. single user single tasking os :(sust)
+      ms dos
+
+2. single user multi tasking os :(sumt)
+     the use can perform multiple operations (vlc,file download)
+
+3. multiuser os:(mumt)
+         latest generations 
+		 
+		 
+
+
+Unix/Linux:
+===========
+
+it is an operating system, which is created in 1960.
+
+
+
+charecteristics;
+---------------
+it is free ware 
+it is open source
+
+     it is FOSS---->FREEWARE AND OPEN SOURCE SOFTWARE
+	 
+UNIX is multi operating system.
+we can perform mutiple tasking simulteniously.
+
+
+GUI: graphical user interface    unix is CUI  it is user friendly
+
+GUI AND CUI which is convient
+     -------
+	 
+	 GUI(EX: at a time only one folder we can create)
+	 CUI: (ex: we can crate multiple)
+	 
+	 GUI :GRAPHICAL USER INTERFACE
+	 CUI :CHARECTER USER INTERFACE
+	 CLI: COMMAND LINE INTERFACE 
+	 
+SECURITY:
+--------
+PERMISSIONS ARE VERY STRONGER
+
+     WE CAN SET PERMISSIONS AT USER LEVEL ,GROUP LEVEL, OTHER LEVEL 
+
+
+
+FLAVOURS OF LINUX:
+-----------------
+
+LINUX OS WHICH IS BASED ON UNIX ONLY
+
+
+UBUNTU
+REDHAT
+CENTOS
+FEDORA
+SLACKWARE
+OPEN SOLARIS
+KALI
+MINT
+SUSE LINUX ENTRIPSES SERVER
+OPEN SUSE
+
+
+
+what are the main components in unix:
+------------------------------------
+
+2 components 
+
+    1.shell
+	   2. kernel
+	  
+shell:
+======
+shell is most outer layer of "OS"
+
+
+shell recieves the command from the user
+
+shell will check whether the given commnds from the user valid or not?
+
+ 1234 1324
+ 
+shell will check whether commnds are is properly user or not?
+
+
+      graphical shell
+	  command line shells 
+	  
+	  
+	  
+	  
+	    korn shell 
+		bourne shell 
+		c shell 
+		posix shell 
+		
+		
+kernel:
+======
+it is a core component 
+
+it is interface between hardware and shell 
+
+ memory allocation,processor allocation taken care by kernal .
+ 
+ 
+ features of linux:
+ ----------------
+ portable 
+ opensource
+ multiprogramming
+ multiuser 
+ security
+ shell 
+ 
+ 
+ drwabacks:
+ ----------
+ hardware driver 
+ software alternatives 
+ 
+ gaming
+ 
+ 
+ 
+ applications of linux:
+ ------
+ 
+ commands:
+ ----------
+ 
+ command is an instruction given to our computer by us to do whatever we want,
+ 
+ macos,linux---->terminal
+ 
+ windows---> commandprompt
+ 
+ 
+ casesensitive
+ 
+ 
+ built in shell commands :
+ 
+ 
+ 
+ external/linux commands:
+ 
+ 
+ /bin--->binary==>it contains all executable files availble for users
+ /dev--->device(it contains all device drivers)
+ /boot-->it contains all bootable information to reboot system 
+ /home--->it contains users and sub users data 
+ /etc--->it contains configuration files related to admin 
+ /usr-->default directory 
+ 
+ 
+ commnds:
+ 
+ who --->currently how many users are loggin in 
+ 
+ whoami-----> direct username
+ 
+ 
+ 
+ 
+ pwd--->print working directory 
+ 
+ ls: list out all the directories and files
+ 
+ mkdir--->to create new directory 
+ 
+ cd-->change directory 
+ 
+ 
+ touch -->to create an emty file 
+ 
+ 
+ rmdir-->to remove directory 
+ 
+ rm ---> to remove a file 
+ 
+ cal----> current month calender 
+ 
+ date ---> to diply the current date and time 
+ 
+ help --> to display the list of commands 
+ 
+ hello --> brief system information 
+ 
+ 
+ 
+ 
+ 
+ clear-->to clear the screen
+ 
+ exit-> to close current session
+ 
+ 
+ man <command_name>
+ 
+ 
+ 
+ 
+ 
+ project: mobile management 
+ 
+ module 1:
+   A,B,C,D  are working
+ 
+ module 2:
+ 
+ E,F are working 
+ 
+ module 3:
+ 
+  x, y are working 
+  
+  
+  
+  A---> demo.txt
+  
+  user/owner===>the person who created the file 
+  
+  group===>b,c d, these persons are working in the same module 
+  
+  others===>E,F,G,H,X,Y(THE PERSONS WHO ARE WORKING OTHER MODULES)
+  
+  
+  rw- r-- r--
+  
+  
+  
+  
+  rm  -r  dir1
+  
+  
+  shell programming/shell scripting:
+  ----------------------------------
+  what is shell:
+  --------------
+  1. shell is responsible to read command provided by the user 
+  2.shell will check whether the command is valid or not .
+  3.shell weil check whether the command is properly used or not .
+  4.if every thing is proper then shell intepreted, it will handover to the kernel
+  
+  kernel is responsible to execute that command with the help of hardware 
+  
+  shell is interface between kernal and user 
+  kernel is interface between shell and hardaware 
+  shell+kernel is nothing but (operating system)
+  
+  types of shells:
+  ----------------
+  1.Bourne shell 
+  2. bash shell 
+  3. korn shell 
+  4.Cshell 
+  5. Tshell
+  6. Zshell
+etc....
+
+
+1.Bourn Shell:
+---------------
+it is developed by stephen bourne
+This is first shell which is developed for unix.
+By using sh command we can access this shell.
+
+
+
+ex,:
+====
+Test.java 
+.py 
+
+test.sh
+
+
+
+there are multiple editors 
+
+vi editor 
+nano editor
+geditor 
+
+
+
+
+ex: gedit test.sh 
+
+-rw-r--r--
+
+
+rw- ==> user/owner
+r--  ==>group
+r--  ==>others 
+
+korn shell:
+----------
+it is developed by david korn 
+
+mostly this shell used in IBM AIX operating system 
+
+by using ksh command, we can acces this file 
+
+
+Bash shell :
+------------
+bash---> bourne again shell 
+
+it is advanced version of bourne shell 
+
+it is default shell of the most linux flavours.
+
+
+by using bash command we can access this file.
+
+Cshell:
+-------
+it is developed by Bill joy
+
+C meant for -->California University
+
+by defaulyt avialble by unix 
+
+by using    "csh" command we can access this file
+
+
+Tshell;
+======
+T ---> Terminal 
+it is advanced version of Cshell 
+it is most commonly usid in HP unix systems.
+by using "tsh" command  we can access this file 
+
+Z shell:
+-------
+developed by PAUL 
+
+by using zsh command we can access 
+
+
+
+ex:
+---
+
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ gedit test1.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ./test1.sh
+bash: ./test1.sh: Permission denied
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ls -l test1.sh
+-rw-rw-r-- 1 sathyasoma sathyasoma 37 Jan 31 11:22 test1.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ chmod u+x test1.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ls -l test1.sh
+-rwxrw-r-- 1 sathyasoma sathyasoma 37 Jan 31 11:22 test1.sh
+
+
+
+ex:
+---
+
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ gedit test2.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ./test2.sh
+bash: ./test2.sh: Permission denied
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ls -l test2.sh
+-rw-rw-r-- 1 sathyasoma sathyasoma 48 Jan 31 11:40 test2.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ chmod u+x test2.java
+chmod: cannot access 'test2.java': No such file or directory
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ chmod u+x test2.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ls -l test.sh
+-rwxrw-rw- 1 sathyasoma sathyasoma 110 Jan 29 19:07 test.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ./test2.sh
+welcome to shell script
+Monday 31 January 2022 11:42:20 AM IST
+Monday 31 January 2022 11:42:20 AM IST
+    January 2022      
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29 
+
+
+
+
+ex:
+---
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ echo $0
+bash
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ sh
+$ echo $0
+sh
+$ exit
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ echo $0
+bash
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ rbash
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ echo $0
+rbash
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ exit
+exit
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ echo $0
+bash
+
+what is shell script:
+-------------------
+
+A sequence of commands saved a file and this file nothing but shell script.
+
+
+
+1.gedit example.sh 
+
+2. date, cal, echo ""   : cntrl+s, cntrl+q
+
+3. ./exaxmple.sh
+
+4. permission is denided
+
+    ls -l example.sh :   -rw-r--r-- links, username date time filename 
+5.chmod u+x example.sh 
+
+    ls -l example.sh 
+	
+      -rwxr--r-- 	
+	
+6../example.sh
+	
+	
+
+java 
+
+c#--> c sharp 
+
+
+#--->sharp
+	
+
+!  ==>Bang
+
+
+importance sha-Bang:
+-------------------
+#!  ->sharp- Bang 
+
+      sha-bang 
+	  
+	  ./test.sh 
+
+sathyasoma:x:1000:1000:sathyasoma,,,:/home/sathyasoma:/bin/bash
+
+defalut ile information  : cat /etc/passwd
+
+how many defalut availble shells :
+---------------------------------
+
+command: cat /etc/shells 
+
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ cat /etc/shells
+# /etc/shells: valid login shells
+/bin/sh
+/bin/bash
+/usr/bin/bash
+/bin/rbash
+/usr/bin/rbash
+/bin/dash
+/usr/bin/dash
+
+
+gedit test.sh  ==> file open -> test.sh 
+
+
+#! /bin/sh
+
+
+$variablename : variable declaretion
+
+
+a=10
+b= 20 
+
+echo "$a"
+echo "$b"
+
+
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ gedit ex3.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ ./ex3.sh
+bash: ./ex3.sh: Permission denied
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ sh ex3.sh
+enter A value :56
+enter B value :Bex3.sh: 3: read: arg count
+A value is 56
+B value is 
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ sh ex3.h
+sh: 0: Can't open ex3.h
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ sh ex3.sh
+enter A value :45
+enter B value :Bex3.sh: 3: read: arg count
+A value is 45
+B value is 
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ gedit ex3.sh
+sathyasoma@sathyasoma-VirtualBox:~/scripts$ sh ex3.sh
+enter A value :23
+enter B value :67
+A value is 23
+B value is 67
+
+
+
+
+control statemnts:
+-----------------
+if statemnt case statemnt while loop for loop until loop break continous exit do while 
+
+
+
+
+simple if:
+============
+syntax:
+
+if condition
+     commands 
+else 
+    commands 
+
+
+
+if [ condition ]
+
+then
+  action 
+  fi
+  
+  
+  
+  
+  read -p "enter your name :" name 
+
+if [ $name = "sathya" ]
+then
+  echo "hello sathya good aftrnoon"
+else
+  echo "hello guest, good aftrnoon"
+fi
+echo "how r u"
+ 
+ 
+ 
+ 
+ 
+ 
+ case:
+ -----
+ 
+ 
+ case $variablename in
+        option 1 )
+		    action 1
+			;;
+                option 2 )
+		    action 2
+			;;
+			        option 3 )
+		    action 3
+			;;
+			        option 4 )
+		    action 4
+			;;
+        * )
+		 default action
+		 ;;
+	esac
+	
+	
+	
+	
+	
+	read -p "enter any digit from 0 to 9: " n 
+	
+	case $n  in
+	   0)
+	   echo "zero"
+	   ;;
+	   1)
+	   echo "one"
+	   ;;
+	   2)
+	   echo "two"
+	   ;;
+	   3)
+	   echo "three"
+	   ;;
+	   4)
+	   echo "four"
+	   ;;
+	   5)
+	   echo "five"
+	   ;;
+	   6)
+	   echo "six"
+	   ;;
+	   7)
+	   echo "seven"
+	   ;;
+	   8)
+	   echo "eight"
+	   ;;
+	   9)
+	   echo "nine"
+	   ;;
+	   *)
+	   echo "please enter 0 to 9 only "
+	 esac 
+	   
+	
+	
+	
+	
+version control systems:
+-----------------------
+
+version control systems are category of software tools, it helps recordings of the files keeping a track of modifications
+done on the code.
+
+types of version control systems:
+----------------------------------
+1.local version control systems  (database)
+
+  RCS
+2. centralized control systems 
+3. distributed version control sysytem.
+
+
+GIT:
+----
+GIT IS DEVOPS TOOL used for source code managemant.it is  free and open source
+
+small to large projects.
+
+github:
+------
+
+git hub is git repository hosting service.it has its own features , while git is a command line tool,gut hub provides a webb based graphical interfcae
+
+collbarations, access control .
+
+
+git started:
+----------------------------->>>>>
+
+  open git bash where you want to create your local repository, 
+  
+  
+  
+  Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git (master)
+$ git config --global user.name  "sathya"
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git (master)
+$ git config --global cd user.email "sathya191916@gmail.com"
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git (master)
+$ mkdir projectongit
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git (master)
+$ ls
+project/  project1/  projectongit/
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git (master)
+$ cd projectongit
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ ls
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git init
+Initialized empty Git repository in C:/Users/Hp/Desktop/sathya/JAVA/Git/projectongit/.git/
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ touch abc.txt
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ ls
+abc.txt
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ cat >> abc.txt
+hello welcome git and github
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ cat abc.txt
+hello welcome git and github
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        abc.txt
+
+nothing added to commit but untracked files present (use "git add
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit
+$ git add abc.txt
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   abc.txt
+
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git commit -m "this is my first file"
+[master (root-commit) 82b6ec4] this is my first file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 abc.txt
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git status --short
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ cat >> abc.txt
+ one extra recipi in my file added
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ cat abc.txt
+hello welcome git and github one extra recipi in my file added
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   abc.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+ (master)
+$ git commit -a -m "updated abc.txt file "
+[master 72803f9] updated abc.txt file
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git log
+commit 72803f9955b62a28fa516ec7827e8738e58ac80a (HEAD -> master)
+Author: sathya <sathya191916@gmail.com>
+Date:   Mon Jan 31 18:09:02 2022 +0530
+
+    updated abc.txt file
+
+commit 82b6ec4f7d0a79df0b5efaab938c6e7ed9997dec
+Author: sathya <sathya191916@gmail.com>
+Date:   Mon Jan 31 18:01:27 2022 +0530
+
+    this is my first file
+
+
+
+===> create a branch :
+
+git branch bookstore
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git branch bookstore
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ ls
+abc.txt
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git branch
+  bookstore
+* master
+
+Hp@DESKTOP-CIJUDKP MINGW64 ~/Desktop/sathya/JAVA/Git/projectongit (master)
+$ git checkout bookstore
+Switched to branch 'bookstore'
+
+java Introduction:
+------------------
+
+language:
+========
+to communicate with the persons 
+
+general langauges: telugu , hindi,english
+
+programming language:
+-----------------
+To communicate with the machine :binary lang --> 0's 1's 
+
+
+By using programming lang what we can can develope:
+===============================================
+
+applications/softwares 
+
+
+ATM Applications 
+Billing applications 
+Calculator applications
+
+two type of applications:
+----------------------------
+1. standalone applications/desktop  :
+
+        the application which we can run on our machine: ex:notepad, antivirus, vlc media,acrobac
+		   standalone applications data wont be shareble.
+
+2. Distributed applications :
+      the application which it s run on server  ex: browsers,watsup,instagram
+	        distributed application data is shareble across the globe.    
+      
+
+  pop                                            oop
+  
+  procedure oriented programming              object oriented programming 
+  
+  b , c ,bcpl,cobolt                               java,python,c++,.Net
+  
+  
+
+1. security and performance
+
+
+oopl                                                      oops
+object oriented programming languages                 object oriented programming systems
+
+many lang                                                 features/methodologies
+
+
+
+--> canadien org(omg)-->object management group 
+
+    -->inheritance
+	-->polymorphism
+	---> abstraction
+	---> encapsulation
+
+
+
+
+
+java:
+=====
+java is one of the oop lanagage for the purpose of developing both standalone, adn distributedd applications.
+
+father / doctor jav: james gosling   in the year of ==> 1995
+
+
+
+current version: java se 17
+standard version is : java se 8
+
+
+sunmicro systems: --> oracle corporation(owner)
+
+3 editions:
+-----------
+JSE:JAVA STADARD EDITION: CORE : STANDALONE APPLICATION
+JEE:JAVA ENTERPRISE EDITION: CORE, ADVANCED
+JME:JAVA MICRO/MOBILE EDITION: MOBILE APPLICATION
+
+JAVA FEATURES:
+-------------
+PORTABLE,
+SECURED. 
+ROBUST,
+MULTITHREADED,
+DISTRIBUTED,
+DYNAMIC, 
+PLATFORM 
+INDEPENDENT,
+GARBAGE COLLECTION,
+SIMPLE
+OOP
+
+
+1.PLATFORM INDEPENDENT
+2. GARBAGE COLLECTION 
+
+
+
+Prequiste to write java program:
+--------------------------------
+
+c program---> c software ---->turboC
+cpp program ---> cpp software-->turbocpp
+
+java program --->java software -> jdk(java developemnt kit)
+
+java 8 lts: jdk 8
+
+www.oracle.com 
+
+1.download the software 
+2.install
+3. we need editors: notepad,notepad++,eclipse.intelij, vs,
+4. write the java program 
+5. save the file 
+6.compile the java program 
+7. execute the program 
+
+
+java-->53 key words --> goto,constant 
+
+comments: 
+
+     single line: // 
+	 multi line comments :
+	 /*   
+	 
+	 ndc
+	 cd,mc d
+	 d,mcd
+	 */
+
+structure of java program:
+==========================
+
+
+class Test {  //class is opened
+
+    public static void main(String args[]){  //main method 
+	
+	 System.out.println("hello world");
+	
+	}
+}
+
+
+types of extension
+
+.py
+.c
+.cpp 
+.java
+
+
+1. .java 
+2. .class
+3. compilation
+4. execution 
+5. jvm (java virtual machine)
+
+                       compilation(compiler)
+.java(source code)--------------------------->.class(machine code)
+user understanble lang                          understnd by machine
+
+
+syntax: compilation: javac filename.java 
+
+
+syntax: execution: java filename 
+
+
+
+
+1. platform independnt
+2. garbage collection 
+
+
+WORA(WRITE ONCE RUN ANYWHERE)
+
+.java file        PI
+windows--------------------------------->Linux
+.class                                     .class
+
+
+.NET
+                pd
+WIDOWS-------------------------------------> linux
+                                                .class
+.CLASS
+
+
+garbage colloction:
+-------------------
+
+
+int age=34;      //4bytes
+
+
+1 project -->1000 variables   1000*4=4000bytes
+
+1 variable     999-->space
+
+garabage collection (garbage collector)--> it will collect all unwanted data 
+
+
+variables:
+----------
+
+variable is container / storage location to store values.
+
+
+ex: String name="jaish";
+
+   syntax:   datatype variablename = value/data;
+                 int sathya="77553636";
+                 char c= 'd';
+
+Datatypes:
+----------
+
+itis representing the type of data which we we stored in variable .
+
+1. primitive dt /built 
+2. non primitive  -->String ,Array
+
+char byte, boolean, short,int long
+
+float,double
+
+
+byte ---->  
+
+1 byte ---> 8bits
+
+range: -128 to 127
+
+byte b=128//incalid 
+  n= number of bits 
+
+      formula: - 2(n-1) to 2 (n-1)-1
+
+- 2*7     to 2*7-1
+-128    to    127
+short 
+int 
+long ---->  to store  numbers 
+float 
+double -----> to store decimal values 
+char-----> to store charectrs
+boolean ----> to store logical values true,false 
+
+
+variable:
+---------
+
+syntax:     datatype variablename= value/data;
+
+
+two types of variables:
+----------------------
+
+1. local variable :  we can define with in the method 
+2. global variable  : we can define outside the method with in the class.
+        * static  variable 
+         *instance variable		 
+
+
+
+
+class Test{
+
+           //global variables declaration
+		   
+		static  int schoolName="dps";   //static variable
+		        short number=78;  //instance variable
+		   
+   public static void main (String  args[])  //jvm   
+                                                   
+   {
+   
+       int pincode=50866; //local variable
+	   System.out.println(pincode);  //local varible printing
+	   
+	   
+	   System.out.println(Test.schollName); //print static variable by using class name
+	   System.out.println(schollName); //printing static variable
+        
+		Test   sathya= new Test(); //object creation 
+		
+		
+		System.out.println(sathya.number ); //insrtance variable printing
+		
+		
+   }
+}
+
+
+
+
+************************************
+*****
+variable properties(variables,methods):
+------------------------------------
+4 difference propertis
+
+1. syntax:
+
+     if it is static property we need to "static" key word  : static datatype variablename=value;
+     without static keyword "instance prprty"     :                   datatype variablename= value;
+
+
+2. memory allocation:
+    "static" properties will get the memory space @ the time of "class loading into jvm"
+   "instance "properties will get the memory space at the time of "object creation"
+
+3. How to access:
+      static property will access by using "by using class Name"(recomnded)
+      instance property wil access by using "object reference"
+
+4. when to access: 
+      whene ever we have common properties "static "
+	  whever we have unique properties "instance"
+
+
+
+ex:    1000 mobiles
+
+            studid:  4bytes
+			stuname:
+			mobileadd:
+			studntclass:
+			1**mobile schoolname:4bytes
+
+
+
+
+	Object creation:
+	----------------
+	
+	
+	className objectReference= new Constructor();
+	
+	Test   sathya= new Test();
+	
+method:
+------
+
+method is the location where we are going to perform action.
+
+
+
+
+
+public static void main(String []args){}
+Syntax:
+-------	
+accessModifier returnType methodName( parameters ref)
+{
+action
+
+}	
+	
+	
+public void dispaly()   // without paramter without returntype
+{
+System.out.println("hello i am display method");
+
+   String name="sathya"; //
+
+}	
+public static void SubOfTwoNumbers(int a, int b) //with parameters without returntype
+
+{
+System.out.println(a-b);
+
+}
+     
+public int  sumOfTwoNumbers(int a,int b)
+{
+  return a+b;
+   
+}
+
+
+ex:
+====
+
+public class Test {
+
+	static String schoolName = "dps"; // static variable
+	int number = 567; // instance variable
+
+	public void dispaly() { // instance method
+		System.out.println("i am dispaly method");
+		int age = 45;
+	}
+
+	public int sumOfTWoNumbers(int a, int b) { // instance method
+		return a + b;
+	}
+
+	public static void subOfTwoNumbers(float a, float b) { // static method
+		System.out.println(a - b);
+	}
+
+	public static void main(String[] args) { // main method
+
+		int pincode = 6789; // local variable
+		System.out.println(pincode);
+		// calling static prpoperties
+
+		System.out.println(Test.schoolName);
+		System.out.println(schoolName);
+
+		Test.subOfTwoNumbers(78.0f, 45.0f); // static method calling
+
+		// object creation
+
+		Test obj = new Test(); // object creation
+
+		System.out.println(obj.number);
+
+		obj.dispaly();
+
+		System.out.println(obj.sumOfTWoNumbers(74, 36));
+
+	}
+
+}
+
+
+
+flow controls:
+---------------
+
+state 1   7times
+
+ste 2
+
+st 3  --5 times
+
+..
+
+
+st 10 --- 10times
+
+we can control the flow of the program 
+
+
+
+
+1.selection statements
+      condition based 
+	  
+	    if else
+		if else if
+		switch
+2. iterative statements 
+       for 
+	   while
+	   do while 
+	      
+3.jump statments
+  break and continue
+
+case 1:true case 2: trt case3 :
+
+ex2:
+---
+package com.ia.corebasics;
+
+public class Test2 {
+	// glabal area: variables, methods
+
+	char c = 'e'; // instance variable
+
+	static int numberOfWheels = 4; // static variable
+
+	public static void dispaly() {
+
+		System.out.println("i am dispalymethod: it is static method without return type,withoout parameters");
+
+	}
+
+	public static int multiOfTwoNumbers(int a, int b) {
+
+		return a * b;
+	}
+
+	public static void divOfTwoNumbers(int a, int b) {
+		System.out.println(a / b);
+
+	}
+
+	// instance methods
+
+	public void assign() {
+		System.out.println("i am assign method wo rt,wo prms");
+
+	}
+
+	public float sumOfTwoNumbers(float a, float b) {
+		return a + b;
+	}
+
+	public void subOfTwoNumbers(double a, double b) {
+		System.out.println("sub of two numbers:" + (a - b));
+	}
+
+	public static void main(String[] args) {
+	     String busName="mahindra";
+
+		System.out.println(busName);
+		
+		//accessing static methods and variables
+		
+System.out.println(Test2.numberOfWheels);
+
+Test2.dispaly();
+Test2.divOfTwoNumbers(78, 12);
+System.out.println(Test2.multiOfTwoNumbers(4, 5));	
+		
+//instance method and varaibles
+
+      Test2 t= new Test2();
+      
+      System.out.println(t.c);
+      t.assign();
+      t.subOfTwoNumbers(45, 12);
+      System.out.println(t.sumOfTwoNumbers(45.0f, 23.0f));
+		
+	}
+}
+
+
+Arrays:
+---------
+
+array is collection of similar type of eleemnts which has contiguos memory location.
+
+
+varibale:
+-------
+int age=56;  //
+
+declare Arrays are two ways:
+-------------------
+1.litteral way
+2. by using new keyword
+
+
+we are going to store elemnts in index format
+
+String name= "mayank";
+
+String names[]={"sweety","yajth","amandeep"};
+
+array size is: 3        n
+array index size: 2    n-1
+
+    names[0]
+	Syso(names[0]);
+	
+advantages:
+==========
+1.code optimization: 
+2. random access 
+
+
+disadvantage:
+=============
+size is fixed
+
+
+two types:
+----------
+single dimentional
+multi dimenstional
+
+
+
+datatype[] arr;
+
+datatype arr[]
+
+
+multidimensional array:
+----------------------
+data is stored in row and column based index 
+
+int arr[][]=new int[3][3];
+
+int arr[][]={{14,45,63},{78,56,25},{86,61,46}};
+
+
+
+ex:
+--
+package com.ia.arrays;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		
+		String name="nikhil";
+		//litteral way
+		String names[]= {"uma","anjali","shubam","yakshesh"};
+		//array size: 4
+		//array index size: 3
+		
+		
+				System.out.println(names[0]);
+				System.out.println(names[1]);
+				System.out.println(names[2]);
+				System.out.println(names[3]);
+				//System.out.println(names[4]);
+		
+	}
+	
+}
+
+ex2:
+----
+package com.ia.arrays;
+
+public class byUsingNewKeyWord {
+	public static void main(String[] args) {
+		//array varaible declaration by using new keyword
+		
+		//datatype varaiblename[]=new datatype[size];
+		
+		int x[]=new int[4];
+		
+		x[0]=78;
+		x[1]=8;
+		x[2]=80;
+		x[3]=6;
+		System.out.println(x[0]);
+		System.out.println(x[1]);
+		System.out.println(x[2]);
+		System.out.println(x[3]);
+		System.out.println(x[4]);
+		
+	}
+
+}
+
+ex3:
+====
+
+package com.ia.arrays;
+
+public class ForExArray {
+public static void main(String[] args) {
+	
+	
+	int age[]= {45,23,56,89,12};
+	
+	for(int i=0;i<=4;i++) 
+	{
+		System.out.println(age[i]);
+		
+	}
+	
+	
+	
+	
+}
+}
+
+
+ex4:
+--
+package com.ia.arrays;
+
+public class ForEachEx {
+public static void main(String[] args) {
+	
+	
+	
+	int x[]= {450,560,852,639,785};
+	
+	System.out.println("by using for each loop");
+	
+	for(int j:x) {
+		System.out.println(j);
+	}
+	
+	
+	
+	System.out.println("by using for loop");
+	
+	for (int i = 0; i <5; i++) {
+		
+		System.out.println(x[i]);
+		
+	}
+}
+}
+
+ex5:
+===
+package com.ia.arrays;
+
+public class MinNUmberEx {
+//passing array to the method
+	static void min(int arr[]) {
+		
+		int min=arr[0];
+		
+		for(int i=1;i<arr.length;i++) {
+			
+			if(min>arr[i])
+				min=arr[i];
+		}
+		System.out.println(min);
+	}
+	public static void main(String[] args) {
+		
+		
+		int a[]= {45,56,23,15,89};
+		
+		min(a);
+		
+		
+	}
+}
+
+ex6:
+-----
+package com.ia.arrays;
+
+public class MutiEx {
+public static void main(String[] args) {
+	
+	int arr[][]={{14,45,63},{78,56,25},{86,61,46}};
+	
+	   for(int i=0;i<3;i++) {
+		   
+		           for(int j=0;j<3;j++)
+		                {  //0,0:0,1:0,2 ; 1,0:1,1:1,2 ; 2,0:2,1,22
+		    	System.out.print(arr[i][j] + " ");
+		                }
+		   System.out.println();
+	   }
+	   
+}
+}
+
+ex7:
+---
+package com.ia.arrays;
+
+public class ArrayClassName {
+    public static void main(String[] args) {
+		
+    	int arr[]= {45,23,56};
+    	
+    	System.out.println(arr.getClass().getName());
+	}
+}
+
+
+
+mobile:
+--------
+package com.ia.arrays;
+
+public class mobile {
+
+	int empid;
+	String empname;
+	
+	public mobile(int empid,String empname) {
+		this.empid=empid;
+		this.empname=empname;
+	}
+	
+	public String toString() {
+		return empid+" "+empname;
+	}
+}
+
+test5:
+-----
+package com.ia.arrays;
+
+public class Test5 {
+
+	public static void main(String[] args) {
+		
+		mobile e1= new mobile(101, "SONAM");
+		mobile e2= new mobile(102, "SAHIL");
+		mobile e3= new mobile(103, "JAIN");
+		mobile e4= new mobile(104, "SONU");
+		
+		mobile emp[]= {e1,e2,e3,e4};
+		
+		for(mobile e:emp) {
+			
+			System.out.println(e);   //toString->to print object address
+		}
+	}
+}
+
+ch s[]={'','',''};
+
+Syso(toString(s));
+
+
+
+constructor:
+------------
+
+synatx:
+-------
+
+accesModifier className()
+{
+//initilization logic
+}
+
+
+* if anything followed by () --->method 
+*constructor is a special member method 
+*construtor name same as clike class name with ();
+*constructor should not return any thing 
+
+purpose of:
+------------
+To initilize the object.
+    it is higly recomnded to keep inilization logic inside the construtor.
+	
+	
+class Test{
+
+
+ void m1(){
+   Syso("hello ");
+ }
+   publlic static void main(String args[]){
+   
+       
+	     Test t= new Test();
+		 t.m1();
+		 
+	   
+   }
+   
+   
+   
+}
+    
+
+without constructor:
+--------------------
+class mobile{
+
+
+     int stid;
+	 String stname;
+	 
+	 void assign(){
+	    stid=100;
+		stname="akil";
+	 }
+	 
+	 void dispaly(){
+	 
+	    Syso(stid+" "+stname);
+	 }
+	 public static void main(String args[]){
+	 
+	  
+	  
+	    mobile st= new mobile();
+		
+		st.assign();
+		st.display();   //100 akil 
+	  
+	  
+	 
+	 }
+
+}
+
+
+with constructor:
+===================
+package com.ia.arrays;
+
+public class mobile {
+
+	int stid; // 108
+	String stname;// santhu
+
+	public mobile() {
+		stid = 108;
+		stname = "santhu";
+	}
+
+	void dispaly() {
+		System.out.println(stid + " " + stname);
+	}
+
+	public static void main(String[] args) {
+
+		mobile st = new mobile();
+
+		st.dispaly();
+
+	}
+}
+
+
+types of constructors:
+----------------------
+we have two types of constrctors
+
+1. no-arg consttructor
+         * default constructor 
+		 *user defined defalut constructor
+		 
+   ** when we didinot define any constructor in a class system(compiler) will create constructor.
+    ** we can define our construtor our own values :    
+2. parameterized construtor 
+
+package com.ia.arrays;
+
+public class ParamEx {
+	
+	int age=67;
+	
+	public  ParamEx() {  //default construtor
+		
+		System.out.println("i am default construtor");
+	}
+    public  ParamEx(String name) {  //default construtor
+		
+		System.out.println("i am default construtor");
+	}
+
+	public ParamEx(int x) { //parameterized construtor
+		System.out.println("this is param construtor");
+	}
+	
+
+	void m1() {
+		System.out.println("m1 method from paramex class");
+	}
+	public static void main(String[] args) {
+		
+		ParamEx p= new ParamEx(); //object creation
+		ParamEx p1= new ParamEx(90);
+				
+	} 
+	
+}
+
+    **** we can define only one defalut constructor in one class,
+	        we can define multiple or any number of param constructors are we can use
+
+
+
+
+String, StringBuffer StringBuilder:
+-----------------------------------
+String is collection of charecters or group of charecters 
+java.lang 
+
+String is class, non-primitive dt.
+
+char[] ch= {'','',''};
+String s= new String(ch);
+
+* String is immutable(once created can ot be modified)
+
+thera rae two ways to create String object:
+=============================================
+1. String litteral 
+2. by using new Key word 
+
+
+
+
+String name="delhi"
+
+   name.concat("UP");
+
+
+Syso(name);   //   *delhi,  UP , *dlehiUp   UPdelhi
+
+
+==>>>>  SCP: String constant pool
+
+
+
+
+by using new keyword:
+----------------------
+
+
+String str= new String("india");
+String str1= new String("india");
+
+
+              System.out.println(str.equals(str1));// true   false   tf
+		       System.out.println(str==str1); //true     false
+		       
+String Buffer and String Builder:
+---------------------------------
+
+Strin mutable
+
+StringBuffere sb= new StringBuffer("india");
+StringBuffere sb1= new StringBuffer("india");
+
+     sb.append("cap");
+	 
+	 Syso(sb);  //   indiacap cap india capindia
+	 
+	 
+	 
+	    check the value are equal or an=not
+	 
+	 object.equals();: references are referering same location not 
+	 
+	 
+	 String Buffer is synchronized:  at a time only one thread executed,low,security
+	 String builder is not synchronized  :  better,low 
+	 
+	 
+commandLine Argments:
+---------------------
+
+public static void main(String args[]){   //
+
+
+
+
+}
+ex:
+====	 
+	 
+	 public class CommandEx {
+
+	public static void main(String[] args) {
+		
+		
+				System.out.println(args[0]);
+		        System.out.println(args[1]);
+		
+	}
+}
+
+	 wrapper classes:
+	 -------------------
+	 
+	 
+	 byte------------>Byte
+	 short
+	 int----------Integer
+	 long -----------Long
+	 float 
+	 double
+	 char
+	 boolean
+
+
+
+
+public class WrapperEx {
+public static void main(String[] args) {
+	
+	        int x=Integer.parseInt(  args[0] );    //67
+	        int y=Integer.parseInt(  args[1] );    //67
+	        
+	        int z= x+y;
+	        System.out.println("addition of two numbers:"+z);
+	        
+	        
+}         
+}
+
+className objectrefrence= new Constructor();
+Test t= new Test();
+
+Reference datatypes:
+--------------------
+
+1.primitive dt : byte short int long float double char boolean
+
+2. non-primitive dt: String ,Array (reference dt)
+
+
+* it contains address(or reference) of dynamically created objects.
+
+* java.lang.Object :(reference object)  
+                    it provide access to the stored objects in the memory.
+					
+		
+		ex: String, Array,interface, class 
+
+    class: it will describe about the object.
+	Array: it has fixed in size,stores the elemnts same type 
+	interface: implemnted by java classes 
+	
+	
+referenc dt and primitive:
+------------------------
+it is not predefined, except String 
+   primitive dt are predefined 
+all reference dt are uppercase letters.
+   primitive dt are lowercase
+refrenced dt has same size 
+   primitive dt are depends on which dt we are using 
+reference dt are null
+  primitive dt are not null 
+refrence dt ex; Array ,String,class,interface 
+  primitive dt : char,int,float,double,long,boolean,
+refrence dt : 8bytes each refrence variable 
+    Test t ;
+  primitive dt:  int num=45;
+  
+  
+Heap Area and stack area:
+--------- ---------------
+
+*memory management 
+    jvm 
+	
+	. Heap area    : objects :  full:java.lang.OutOfMemoryError
+	
+	                              . permanent generation
+								  . code cache 
+								  . surviovor space
+								  . young generation 
+								  .old generation
+	
+	. stack area : methods ,varaibles  LIFO
+	                 full: java.lang.StackOverFlowError
+
+
+differences:
+-------------
+ stack area: LIFO order
+     heap are: not follow any order 
+ stack area: size is small,limited
+     heap area: size is large,
+ stack area:methods, varible 
+     heap area: objects 
+ stack area: faster
+    heap area is : slower 
+ stack area: owner can see these threads
+   heap area : visibile all threads 
+ stack area: -xss
+   heap area:  -xmx or xms
+   
+   
+   
+   
+ call by value and call by reference:
+=================================== 
+   
+   if we calling a method passing a value it : call by value 
+   the changes being happening in the passing method: call by reference
+   
+ oops features:
+---------------
+
+           oopl                             oops 
+
+object oriented programming langugae        object oriented oriented programming systems
+ 
+   
+   
+   features:
+   ---------
+   
+   1. inheritance
+   2. polymorphism----->performance  
+   3. abstraction 
+   4. encapsulation----> Security
+   
+   class, object :===>
+   
+   have you seen a car? --> No 
+             we canot seea car -->types of cars (maruti, innova)
+   have you seen a tree ?--->NO
+         we can see types of tree --> 
+		 
+		 
+	class:
+	------
+	class is blue print .It is collection data members with member functions 
+	  class is like logical entity
+	
+	   DNA ----> 
+	
+	
+	object:
+	-------
+	every object has state and behaviour:
+	   it is a physical entity.
+	object is "instance" of a class 
+	
+	
+	allocationg sufficient of memory space to class properties.
+	
+	
+Inheritance:
+------------
+
+inheritance is a mechanism in which one object aquirs all the properties and behaviours
+from parent class.
+
+
+4...8
+class oldCars{
+
+//1000 methods
+//200 variables 
+
+
+
+
+}
+	
+	
+class MyCar extends OldCar {
+
+30 methods 
+
+
+
+
+}
+	100child--->
+	
+
+**by using extends and implemnts : "code reusebility"
+	
+	
+types of inheritance:
+--------------------
+1.single level
+2. multilevel
+3.hirarchial
+4. hybrid
+5.multiple 
+	   
+
+ex1:
+-----
+package com.ia.oops;
+
+class Test{
+	
+	void sound() {
+		System.out.println("the sound is good in old car");
+	}
+	
+	static void enginePerformance() {
+		System.out.println("40 yrs");
+	}
+}
+public class InherEx extends Test {
+
+	  void design() {
+		  System.out.println("latest racing car model design with good features");
+	  }
+	public static void main(String[] args) {
+		
+		InherEx ix= new InherEx();
+		
+		ix.sound();
+		ix.design();
+		ix.enginePerformance();
+		
+	}
+}
+
+ex2:
+0------
+
+package com.ia.oops;
+
+//multilevel inheritance
+class Test{ //super parent
+	
+	void sound() {
+		System.out.println("the sound is good in old car");
+	}
+	
+	static void enginePerformance() {
+		System.out.println("40 yrs");
+	}
+}
+
+class Car extends Test{  //parent
+	
+	void speed() {
+		
+		System.out.println("400 rpm");
+	}
+}
+public class InherEx extends Car  {//child
+
+	  void design() {
+		  System.out.println("latest racing car model design with good features");
+	  }
+	public static void main(String[] args) {
+		
+		InherEx ix= new InherEx();
+		
+		ix.sound();
+		ix.design();
+		ix.enginePerformance();
+		ix.speed();
+		
+	}
+}
+
+ex3:
+----
+package com.ia.oops;
+
+//hirarchial level: one parent two childs
+class Test{ //super parent
+	
+	void sound() {
+		System.out.println("the sound is good in old car");
+	}
+	
+	static void enginePerformance() {
+		System.out.println("40 yrs");
+	}
+}
+
+class Car {  //child-1
+	
+	void speed() {
+		
+		System.out.println("400 rpm");
+	}
+}
+public class InherEx extends Car {//child-2
+
+	  void design() {
+		  System.out.println("latest racing car model design with good features");
+	  }
+	public static void main(String[] args) {
+		
+		InherEx ix= new InherEx();
+		
+		//ix.sound();
+		ix.design();
+	//	ix.enginePerformance();
+		ix.speed();
+		
+	}
+}
+
+multiple inheritance:
+------------------------
+package com.ia.oops;
+//multiple inheritance 
+// two parents :--> one child
+class A{
+	
+	void test() {
+		System.out.println("i am from class A");
+	}
+}
+class B{
+	
+	void test() {
+		System.out.println("i am from class B");
+	}
+}
+public class MultipleEx A,B {
+public static void main(String[] args) {
+	
+	MultipleEx mx= new MultipleEx();
+	
+	mx.test();
+	
+	//ambiguity:
+}
+}
+
+
+polymorphism:
+==============
+
+poly many morphism =forms 
+
+
+ +
+ 
+ 2+3=5
+ 2+"sathya"
+=2sathya
+
+opeartor overaloading
+
+
+1.method overloading 
+2. method overriding
+
+method overloading---
+=================
+method name is but num parameters are different
+                but type of parms r different
+				but order of params dffrt
+
+package com.ia.oops;
+
+public class OverloadEx {
+
+	public void add(int a,int b,int c) {
+		System.out.println("addition of three int numbers :"+(a+b+c));
+	}
+	public void add(int a,int b) {
+		System.out.println("addition of two int numbers :"+(a+b));
+	}
+	public void add(float a,float b) {
+		System.out.println("addition of two float numbers :"+(a+b));
+	}
+	public void add(float a,int b) {
+		System.out.println("addition of  float,int numbers :"+(a+b));
+	}
+	public void add(int a,float b) {
+		System.out.println("addition of int, float numbers :"+(a+b));
+	}
+public static void main(String[] args) {
+	
+	OverloadEx obj= new OverloadEx();
+	
+	obj.add(67, 34);
+	
+	obj.add(45.0f, 85);
+	
+	obj.add('a', 'b'); //type promotion
+	
+		
+}
+	
+}
+
+
+method overriding:
+-----------------
+
+method name is same but implementation is different 
+
+
+package com.ia.oops;
+
+class OdTv{
+	
+	void screen() {
+		System.out.println("lcd screen");
+	}
+	
+	void sound() {
+		System.out.println("sound is good");
+	}
+}
+
+public class OverrideEx extends OdTv {
+
+	   void design() {
+		   System.out.println("CHANGED THE DESIGN");
+	   }
+	   
+	   @Override
+	   void screen() {
+		   System.out.println("led screen");
+	   }
+	public static void main(String[] args) {
+		
+		OverrideEx obj= new OverrideEx();
+		
+		
+		obj.design();
+		obj.sound();
+		obj.screen();
+		
+				
+	}
+}
+
+
+
+this, and super:
+---------------
+
+this: this is keyword to represent current class properties.(variables,methods,constructor,object)
+
+super:  super is a keyword to represent parent class properties(varaibles,methods,construtors)
+
+
+
+
+class Test{
+
+int salary=45000;
+
+void getSalary(int salary){
+    salary=35000;
+	Syso(salary);     //35000, 45000 , 500
+}
+
+}
+
+this and super:
+-------------
+package com.ia.oops;
+
+class Parent{
+	int salary=56000;
+	void m1() {
+		System.out.println("i am parent classm1 method");
+	}
+	
+	public Parent() {
+		System.out.println("i am default construtr");
+	}
+	
+}
+public class ThisEx extends Parent {
+
+	int salary=45000;
+	
+	public ThisEx() { //child class defalt constructor
+		
+		super();
+	}
+	
+	void getSalary(int salary) {
+		salary=35000;
+		System.out.println("salary is :"+salary);
+		System.out.println("salry is :"+this.salary);
+		System.out.println("salary is:"+super.salary);
+		super.m1();
+		System.out.println(this);
+		
+	}
+	public static void main(String[] args) {
+		
+		
+		ThisEx t= new ThisEx();
+		
+		t.getSalary(7000); // 7000,35000,45000
+	}
+}
+
+Encapsulation:
+-------------
+
+binding/groping data memebers with memebr function 
+                             corresponding member methods are public 
+							 
+private data memebers with corresponding public methods.
+
+
+package com.ia.oops;
+
+public class mobile {
+	
+	private int empid; 
+	private String empname;
+	private int  empsal;
+	private String empadd;
+	private int empatm;
+	
+	public int getEmpid() {
+		return empid;
+	}
+	public void setEmpid(int empid) {
+		this.empid = empid;
+	}
+	public String getEmpname() {
+		return empname;
+	}
+	public void setEmpname(String empname) {
+		this.empname = empname;
+	}
+	public int getEmpsal() {
+		return empsal;
+	}
+	public void setEmpsal(int empsal) {
+		this.empsal = empsal;
+	}
+	public String getEmpadd() {
+		return empadd;
+	}
+	public void setEmpadd(String empadd) {
+		this.empadd = empadd;
+	}
+		public void setEmpatm(int empatm) {
+		this.empatm = empatm;
+	}
+	
+	//getters and seeters
+	
+	
+
+}
+
+hacker:
+=======
+package com.ia.oops;
+
+public class Hacker {
+
+	public static void main(String[] args) {
+		
+		mobile emp= new mobile();
+		
+		emp.setEmpid(123);
+		emp.setEmpadd("hyd");
+		emp.setEmpatm(1234);
+		emp.setEmpname("sonu");
+		emp.setEmpsal(1000);
+	
+		
+System.out.println(emp.getEmpadd()+""+emp.getEmpid()+""+emp.getEmpname()+""+emp.getEmpsal());
+	}
+}
+
+
+Case Study:
+----------
+
+Counting the Occurrences of Each Letters:
+========================================
+
+inputs:
+=======
+className: CountLettersInArray
+methodname: createArray();
+method name: dispalyCounts(counts);
+methodName: static char[] createArray();
+methodName: RandomCharecter();
+
+Requirements:
+-------------	
+	2. declarea nad create Array method 
+	3. display the Array 
+	4. counts the occurence of each letter
+	5. dispaly counts
+2.1 create an Array charecters 
+  2.1 declare an array of charecters and create it 
+  2.2 create lower letters randomly assign to them array 
+  2.3 return the array 
+  2.4 display the Array of charecters 20 on each line 
+  2.5 count the occurence of each letter 
+  2.6 dispaly the counts 
+
+  
+  abstraction:
+  ============
+  
+  class:class is a collection of data members with member methods.
+  
+        methods:
+		
+		  publlic void dispaly(){
+		  
+		     Syso("this is dispaly method");  //implementation -concrete methods 
+		  }
+  
+  concrete methods/
+  
+  
+  
+  
+  		  publlic void dispaly(); //non-concrete methods/ unimplemented methods
+		  
+		  
+		     
+		  
+  
+  
+  Abstrction is a process of hiding the data/implementation and showing the functionality to user.
+  
+  
+  
+  if you have any abstract class: abstarct and non-abstarct methods ()
+  
+  
+  if your class has any abstract method you need to add you class also change abstract
+  
+  
+ex: abstarction:
+================
+package com.ia.oops;
+
+//abstraction: 
+abstract class Creta {
+
+	public void pistonMovement() { // implemented method
+		System.out.println("piston movement is up and and down with crankshaft");
+	}
+
+	public abstract void filter(); // unimplemeted 0.001
+
+	public abstract void cameraSlantAngle();
+
+}
+//3yrs
+
+public class AbstractEx extends Creta { // 0.0001 20222
+
+	void interior() {
+		System.out.println("good looking with  sunroof");
+	}
+	
+	 
+
+	public static void main(String[] args) {
+
+		AbstractEx obj = new AbstractEx();
+
+		obj.filter();
+		obj.pistonMovement();
+		obj.interior();
+
+	}
+
+	@Override
+	public void filter() {
+		System.out.println("filter holes changed to 0.001 mm");
+
+	}
+
+	@Override
+	public void cameraSlantAngle() {
+		System.out.println("angle changed to stright to slant");
+
+	}
+
+}
+
+we are goingto get 0 to 100% ->
+
+interface:
+============
+
+interface is a blueprint of a class. 
+
+class: implemented methods/concrete methods 
+
+interface: we have only  abstract methods 
+
+   by defalut interafec has public abstract 
+   
+   
+by using interface we are going to get 100% abstraction .
+
+
+
+class to class===> extends 
+
+class to interface==>implements 
+
+interface to interface==> extends 
+
+interface to class==>implemnts 
+
+
+ex:
+====
+package com.ia.oops;
+
+
+interface Interf{
+	
+	               void shape();
+	
+	              void draw();
+	
+}
+public class InterfaceEx implements Interf {
+	
+	void paragram() {
+		System.out.println("i used some implemntation about my method");
+	}
+public static void main(String[] args) {
+	
+	
+	InterfaceEx ix= new InterfaceEx();
+	
+	ix.shape();
+	ix.draw();
+	ix.paragram();
+}
+@Override
+public void shape() {
+	System.out.println("the shape is rectangle");
+	
+}
+@Override
+public void draw() {
+	System.out.println("i drwa house design");
+	
+}
+}
+
+
+final:
+======
+final is a keyword it can be applied on three places varibles,methods,class 
+once we apllied we cant change.
+
+
+ex:
+==
+package com.ia.oops;
+
+class ParentEx{
+	
+  	int age=88;
+ 
+	 void getAge(int age) {
+		
+		this.age=++age;
+		System.out.println("parent classs age is :"+this.age);
+	}
+}
+public class FinalEx extends ParentEx {
+  
+	  void getAge(int age) {
+		  this.age=--age;
+		  System.out.println("child class get age is:"+this.age);
+	  }
+	  
+  public static void main(String[] args) {
+	
+	  FinalEx t= new FinalEx();
+	  t.getAge(45); //   88,86,87,44,45
+	  
+	  
+	  
+	  
+	  
+}
+}
+
+
+Enum:
+-----
+
+Enum in java is dt which contains set of constsant,
+
+enum Leveling{
+
+LOWER,
+MEDIUM, HIGH
+
+}
+
+ex:
+====
+package com.ia.oops;
+
+enum Leveling{
+	
+	LOW, HIHGH,MEDIUM,
+}
+public class EnumEx {
+
+	public static void main(String[] args) {
+		
+		Leveling obj= Leveling.LOW;
+		System.out.println(obj);
+		
+	}
+}
+
+
+ex2:
+====
+package com.ia.oops;
+
+
+public class EnumEx {
+
+	enum Leveling{
+		
+		LOW, HIHGH,MEDIUM,
+	}
+	public static void main(String[] args) {
+		
+		Leveling obj= Leveling.HIHGH;
+		System.out.println(obj);
+		
+	}
+}
+
+ex3:
+===
+package com.ia.oops;
+
+enum Leveling{
+	
+	LOW, HIHGH,MEDIUM,
+}
+public class EnumEx {
+
+	
+	public static void main(String[] args) {
+		
+		Leveling obj= Leveling.HIHGH;
+		
+		switch(obj) {
+		
+		case LOW:
+			System.out.println("LOW LEVEL");
+		case HIHGH:
+			System.out.println("HIGH LEVEL");
+			break;
+		case MEDIUM:
+			System.out.println("MEDIUM LEVEL");
+		}
+		
+	}
+}
+
+
+ex4:
+----
+package com.ia.oops;
+
+enum Leveling{
+	
+	LOW, HIHGH,MEDIUM,
+}
+public class EnumEx {
+
+	
+	public static void main(String[] args) {
+		
+		for(Leveling obj:Leveling.values()){
+		System.out.println(obj);
+		}
+		
+	}
+}
+
+*****8-2-22****
+
+packages:
+=========
+
+package is collection of classes and interface and sub classes.
+
+
+the main purpose of package:
+=========================
+*is to provide acces protection
+*we can maintain easily
+*it can removes naming collision.
+
+
+packages are two types:
+==========================
+
+1.Built in packages/System defined packages 
+
+
+java.lang,java.awt,java.swing,java.io, java.util 
+
+2. user defined packages 
+
+how to access from package to another pacakage:
+--------------------------------------
+
+1. import package . *;  
+      all the classes and interface of this package will imported except subpackage
+2. import package.className 
+       only that package related class can be access .
+3. fully qualified name.
+
+
+compile: javac filename.java 
+
+          javac -d . PackEx.java
+
+package example:
+==================
+
+package com.ia.core.examples;
+
+class PackEx{
+   public static void main(String args[]){
+
+
+    System.out.println("welcome to packages");
+}
+}
+
+*****||**
+compilation:  javac -d . filename.java  (-d:=> directore rep)
+execution:     java packagename.classname  (complete package name: com.ia.core.examples)
+
+
+AccessModifiers:
+=================
+accessModifiers are basically keywords in java
+
+      in java we also non-access modifiers such as static,abstract, synchronized, native,volatile
+
+
+To modify the scope of accessing.
+
+we have 
+
+public , private ,protected ,default
+
+1. creation of packages
+
+*  pack1
+*  pack2
+
+2. pack1: create a class and method 
+3. pack2 : create a class with mainmethod: 
+
+4.impliment of (public,private,protected,defalut) keywords
+
+
+pack1:
+======
+package pack1;
+
+  class Parent{
+	  
+	 void assign() {
+		System.out.println("hello");
+	}
+}
+
+ public class Welcome extends  Parent {
+
+	private  void display() {
+		System.out.println("this is welcome class display method");
+	}
+	public static void main(String[] args) {
+		
+	      Welcome wel = new Welcome();
+	         Parent p= new Parent();
+                 	wel.assign();
+                 	wel.display();
+}
+}
+
+
+pack2:
+------
+package pack2;
+
+import pack1.Welcome; //cntrl+shfi+o
+
+public class Hello extends Welcome {
+	public static void main(String[] args) {
+		
+		//Welcome wel= new Welcome(); 
+		Hello hel= new Hello();
+		
+		//hel.display();
+	}
+
+}
+
+constructor Chaining:
+====================
+
+constructor chaining is a process of calling construtors upon initiizing the objects.
+
+
+public class ConstrctorEx {
+
+   public ConstrctorEx() {
+	   
+	   this("jash"); //calling current class param conctor
+	   
+	   System.out.println("this is deaflut construr");
+	   System.out.println(this);
+	   
+   }	
+
+   public ConstrctorEx(int x,String y) {
+	   
+	   System.out.println(this);//1
+	   
+   }
+  public ConstrctorEx(String name) {
+	  this(45,"fg");
+	  System.out.println("i am param construot called by defalut constructor");
+  }
+
+  public static void main(String[] args) {
+	
+	  ConstrctorEx cx= new ConstrctorEx();
+
+	  
+}
+
+}
+
+
+AutoBoxing and AutoUnboxing:
+===========================
+
+the automatica conversion of primitive values to objects(wrapper classes)
+objects to primitive values autoboxing and auto unboxing.
+
+
+
+//autoboxing
+
+public class AutoBoxEx {
+public static void main(String[] args) {
+	
+	int x=100; //primitive value
+	
+	Integer obj= new Integer(x);//autoboxing
+	
+	Integer obj1=78;
+	
+	System.out.println(obj+"   "+obj1);
+	
+	
+}
+}
+
+ex2:
+====
+
+//autounboxing
+//objets to primitive
+public class AutoUnboxEx {
+public static void main(String[] args) {
+	
+	Integer i= new Integer(100);
+	
+	int a=i;
+	System.out.println(a);
+	
+}
+}
+
+
+
+static import:
+=============
+
+by using this we can accss any static member of a class directly. there is no need of class name.
+
+
+ex:
+===
+//static import example
+
+import  static java.lang.System.*;
+
+public class StaticImportEx {
+	public static void main(String[] args) {
+		
+   out.println("welcome to static import");		
+
+	}
+
+}
+
+
+natural sorting order by using sor method:
+==========================================
+import java.util.Arrays;
+
+public class SortEx {
+public static void main(String[] args) {
+	
+	String[] contris= {"india","astralia","america","canada"};
+	
+	Arrays.sort(contris);
+	
+	System.out.println(Arrays.toString(contris));
+}
+}
+
+
+link: 
+https://docs.google.com/spreadsheets/d/1OeQjVObk3dz4OagFpCfj5xVV-1H-hZ5qexvTCJ04GwU/edit?usp=sharing
+
+
+Devops:
+=====
+Devops is not a tool/technology in he market
+
+ it is a new culture or process to develop maintainace of softwares/applications/projects/product with higher faster response 
+ 
+ we can achive by using devops automation tools .
+ 
+ 1.development groups 
+ 2.operation groups /non deveopemnt grps/adminstraction group 
+ 
+    we can classify more small groups 
+	
+	  Bussiness Analyst
+	  Design Architect
+	  Devlepemnt/coders
+	  Build Engineer
+	  Test Engineer/QA
+ 
+ develoemnts:
+ -----------
+ 1.planning
+ 2.coding
+ 3.build 
+ 4.testing
+ 
+ operation gropus:
+ ===============
+ 1.relese
+ 2.deployment
+ 3.operating
+ 4.moniter
+ 
+ eg:
+ ===
+ release enginr
+ configure enginer
+ System admin
+ database admin 
+ network admin 
+ 
+ etc
+ 
+ 
+ devops is the combinetaion of both develop and opeartion teams(collabaration)
+ 
+ SDLC:==>software development life cycle
+ 
+ 1.waterfall model =======>
+ 2.prototype model 
+ 3.Increamnt/iterative model 
+ 4.Spiral model 
+ 5.RAD model
+ 6.Big-Bang Model
+ 7.Fish mODEL 
+ 8.V model 
+ 9.Agile model ===>
+ 10
+ 
+ 
+ 
+ waterfall model:
+ =================
+ 
+    requiremnet gathering/collection 
+	                Requirement analysis
+	                                 Design 
+	                                    coding ===>
+	                                       Tetsing
+	                                           Relaese
+	                                               Minatance
+ 
+ 
+ 
+  it is linear sequential model 
+  
+ Advantages:
+ ==========
+  it is very siple and easy to implent
+  best suitable for fixed requirements
+  best suitable for small projects 
+  
+  
+  
+  limitations:
+  -------------
+  
+  Devloping time time more or increase
+  cost of developmnt wil be incrased 
+  it wont accept the requirements changes in the middle
+  client satidfaction is very very low 
+  bug fixing cost very high
+  not at all suitable for requiremnts changing
+  suitable for small projects
+  
+  
+  Agile model:
+  ------------
+  
+  agile model is scrum model is most populaer like hot cake model 
+     frequently used model in the market 
+	 
+  Agile:=>speed  
+  
+  scrum: agile model 
+  
+  it isa iterative model 
+  total software product will be developed and increamenrby increamentand each increament is called Spprint
+  
+  advantages:
+  =========
+  
+  
+  
+  
+  agile is philosophy it is set of principles and to develope software 
+  
+  agile based -iterative -increamntal model
+  
+  
+  
+  
+  scrum: scrum is a agile framework that heps you to organize and uterate the project 
+  
+      whatever all the people working on the same project.
+	  
+	  sprint: 1 to 4 weeks
+	  
+	  scrum master:
+	  
+	  
+	  jira:
+	  ====
+	  jira is a project managemnt tool 
+	  itis used for issues and bugs tracking system 
+	  it widly used for as an issue tracking tool for all types of testing.
+	  based on three concepts:
+	  =================
+	  1,project 
+	  2.Issue
+	  3.workflow
+	  
+	  who developed: attlasian : Astralaian comapny
+	  jira has platform indipendent tool 
+	  multi level lang tool
+	  jira support for multiple databases 
+	  jira can be integerated with other tools 
+	  
+	 :jira:
+	 =========
+	 
+	 
+	 jira is a commercial tool and avialble for trail version 
+	 to utilize jira service we required licence
+	 
+	 use jira:
+	 --------
+	 it is used in bugs 
+	 helpdesks
+	 project mangemnt 
+	 tickets
+	 workflow 
+	 
+	 
+	 data structure:
+	 --------------
+	 ds can be dfined as gropu of data storing oraganising data in a computer.
+	 data struture:
+	 arrays,linked list,stack, queue etc 
+	 
+	 building block of any program 
+	 
+	need of  data struture:
+	 ================
+	 advantages:
+	 ----------
+	 reusebility 
+	 efficiency
+	 abstraction
+	 
+	 types of ds:
+	 
+	 
+	                                     DS
+										 
+			primitive ds                            non primitive ds 
+
+                                               linear                      non linear
+											   
+										                                    tree   graph 
+										 static       dynamic
+										 
+								Arrays           linked list stack queue
+										 
+										 
+										 
+										 
+	Arrays:
+-------------
+
+linear ds 
+elements are stored in contiguos memory location 
+we can acces elemnts randalmly by using index 
+
+datatype varibale name[]= new datatype[4];
+
+
+advantages:
+=========
+
+randamly we can access 
+
+easy sorting and iteration
+
+replace mnt of multile varaibles 
+
+
+
+
+disadvantage:
+==========
+fixed in size 
+difficult to insert and delete 
+
+aplication :
+====
+for sorting information in a liean fashion
+
+linked list:
+-----------
+
+linear ds 
+elements are stored as er the memory avaalbility
+linear fashion only 
+size id Dynamic 
+easly we cn insert and delte 
+
+advantages:
+=====
+
+
+no randaom acces is not possible 
+
+
+applications:
+=====
+suitable for whee the memoryis limited 
+
+
+
+types of linked list:
+----
+singly linked list 
+doubly linked list 
+circular linked list 
+circulaer doubley linked list 
+
+
+
+stack:
+======
+
+linear ds 
+LIFO ORDER
+ONLY top elements are available to be accessed 
+inseryion and deletion takes place frok the top 
+
+push()--->insert
+
+pop()==>removes
+
+isEmpty()-->
+
+peek()-->to get top most elemnt 
+
+
+
+adva:
+====
+
+
+application:
+======
+recursion
+editors
+browsers 
+parsing 
+
+
+Queue:
+------
+FIFO
+FIRST IN FIRST OUT 
+
+INSERTION IS TAKES PLACE REAR END 
+DELETION TAKES PLACE FRROM FRONT END 
+
+
+enque()--> insert 
+deque()--> removes 
+peekFirst()===>it will get the first elemnt 
+peekLast()==>to getthe last element 
+
+advantage:
+===========
+
+maiantains data in fifo manner 
+
+
+applications:
+========
+scheduling 
+maintaining the palyalist 
+interrupt handling
+
+searching:
+=========
+
+searching is a process of finding some particular elemnt in the list.
+
+    23 45 67 78 89 
+	
+	67
+	
+	return true (succ)
+	
+	return false 
+	
+	
+	
+	
+	1.Linear Search/sequential search:
+	    1. we arrange elements 
+		2. by using for loop we can iterate
+		     if the elemnt true ->index num 
+			   else search for other elemnt 
+			 else there is no match  return flase
+			 
+			 
+ex:
+==
+
+
+public class LinearSearch {
+
+	public static void main(String[] args) {
+		
+		int a[]= {10,30,40,50,20};
+		
+		int search_el=60;
+		
+		boolean flag=false;
+		for(int i=0;i<a.length;i++)
+		{
+			//System.out.println(a[i]);
+			
+			 if(search_el==a[i])
+			 {
+				 System.out.println("elemnt is found:"+i);
+				 flag=true;
+				 break;
+			 }
+		}
+		if(flag==false) {
+		System.out.println("elemnt not found");
+		}
+	}
+}
+
+
+2.Binery Search :
+================
+by using sorted array 
+
+starting from middle 
+
+binery search it is follow divide conqure 
+
+
+1 2 3 4 5 6 7 8 9 10
+        
+val=6
+	
+	val==mid 
+	val>mid   mid+1
+	val<mid  mid-1
+	
+	
+	
+sorting:
+=======
+
+it will work on the principle of swapping adjacent elemnts until they are not intend to order.
+
+bubble:
+=====
+
+algorithm:
+--------
+beginBubblesort(arr)
+
+for all array elemnts 
+  if arr[i]>arr[i+1]
+    swap(arr[i],arr[i+1])
+	end if
+	end for
+	return arr
+end of bubblesort
+
+
+
+
+insertion sort:
+------------------
+
+1. 1st elemnt should be sorted element only 
+2. picking up next elemnt keepit seperate
+3. we can caompare those two keys
+4. take the next elemnt and compare it
+5 ,insert the value 
+6. repeating until the array is sorted 
+
+
+*************************11-02-22**************************
+
+collections:
+------------
+
+
+variable:
+---------
+
+by using variable we can store only one value at a time.
+
+arrays:
+------
+
+String names[]={"uma","sahil","yajath"};
+
+String names={uama,34.00f, 'c'};
+
+disavtage:
+=========
+
+1.specified elements we cn use 
+2.array size is fixed 
+
+
+
+collections :
+============
+advantage:
+==========
+we can store multiple elemnts in a single variable 
+
+
+
+collection is a framework, more pre defined methods have 
+
+common predefined methods: adding,deleteng, updateing, fetching
+
+
+
+collection is a framework ,collection is a interface ,java.util
+
+
+  for the pupose of storing or grouping similar and dissimilar objects into a single untit.
+
+
+
+since this interface contains fundamental methods to perform fundamenta l operations llike
+   adding,deleteling,inserting,fetching,
+   
+   
+   
+disadvantage:
+=============
+
+we can store only "objects"     123  
+
+
+
+
+
+collection is the root interface of all collecction interface.
+
+
+
+
+
+                                    collection (I): 
+									
+									
+									
+					List (I)            Set(I)				Queue(I)       
+					
+					ArrayList(c)
+					Linked List(c)
+					Vector(c)
+					Stack(c)----deprecated class
+					
+					
+					
+					
+					
+					Map(I)
+									
+									
+									
+									
+why List Interface:
+===============
+it will allow both homogenous and hetrogenous object only 
+* duplicats are allowed
+*insertion order is preserved 
+*null insertion also possible 
+
+
+interface List extends Collection{
+
+
+
+}
+
+List obj= new List();//invalid
+List obj= new ArrayList(); //valid
+
+ArrayList 
+LinkedList
+Vector
+Stack 
+
+
+ArrayList:(c)
+==========
+
+
+ArryList al= new ArrayList();
+
+al.add(123);
+al.add(new Integer(100));
+al.add(new Boolean(false));
+al.add("mehul");
+al.add(null);
+
+
+
+ex:
+==
+
+
+package com.ia.collections;
+
+import java.util.Vector;
+//it will both similar and disimilar values
+//insertion order is preserved
+//null insertion is possible
+//duplicates are allowed
+public class ArrayListEx {
+	
+	public static void main(String[] args) {
+		
+		//ArrayList al= new ArrayList(); //10 11 16not synch cc*3/2+1=> 15+1=16
+		//LinkedList al= new LinkedList();
+		Vector al= new Vector();//10 synch 20
+		//Stack al= new Stack();  //LIFO 
+		
+		
+		System.out.println(al.capacity());
+		al.add(123);
+		al.add(new Integer(34));
+		al.add(45.0f);
+		al.add("mudit");
+		al.add(true);
+		al.add(null);
+		al.add('s');
+		al.add("ritika");
+		al.add("mudit");
+		al.add("niharika");//10
+		al.add("ranganath");//11
+		System.out.println(al.capacity());
+		
+		
+		
+		System.out.println("all the values:"+al);
+		
+	}
+
+}
+
+
+
+diff arry link 
+
+if our frequent operation are updation/deletion/insertion 
+    linked list : internally it will doubly linked list algoritham
+	
+if our frequent operation is fetchingor searching 
+  ArrayList : Random access memory 
+	
+ex:
+===
+package com.ia.collections;
+
+import java.util.ArrayList;
+
+public class Test {
+public static void main(String[] args) {
+	
+	ArrayList al= new ArrayList();
+	
+	for(int i=0;i<10;i++)
+	{
+		al.add(i);
+	}
+	System.out.println(al);//prints all the vaues at once 
+	
+	//using for loop 
+	for(int i=0;i<al.size();i++)
+	{
+		System.out.println(al.get(i));
+		
+	}
+	
+	//for each loop
+	System.out.println("for each loop");
+	for(Object o:al) {
+		System.out.println(o);
+		
+	}
+	
+	//by using for each loop print odd numbers 
+	System.out.println("print odd numbers");
+	 for(Object o:al) {
+		 
+		 Integer i= (Integer) o;
+		 
+		 if(i%2!=0) {
+			 System.out.println(i);
+		 }
+	 }
+	
+	
+}
+}
+
+ex:
+---
+package com.ia.collections;
+
+import java.util.LinkedList;
+
+public class LinkedListEx {
+public static void main(String[] args) {
+	
+	LinkedList li= new LinkedList();
+	
+	li.add(100);
+	li.add("amandeep");
+	li.add(47.35f);
+	li.add(false);
+	li.add(null);
+	
+	System.out.println("list size:"+li.size());//5
+	System.out.println("contains amandeep:"+li.contains("amandeep"));//true
+	System.out.println("get fisrrt elemnt:"+li.getFirst());//100
+	System.out.println("get last :"+li.getLast());//null
+	System.out.println("is empty:"+li.isEmpty());//flase,
+	System.out.println("remove"+li.remove());//last,first
+	System.out.println("now the size:"+li.size());//4
+	System.out.println("oth index"+li.remove(0));//
+	li.add("amandeep");
+	System.out.println("size"+li.size());//4
+	
+	
+}
+}
+
+
+
+Generics:
+=========
+the generic collections diabled the type casting and there is n0 use of tyep casting 
+ when it is used we are ging to use generics.
+ 
+ these GENERICS in collections are type-safe and cheked at compile time.
+ 
+ 
+
+
+cursors:
+=======
+
+Enumeration: deprecated classes : Stack and vector 
+Iterator:  universal curesor, one direction
+ListIterator: only list related class: both direction
+
+
+package com.ia.collections;
+
+import java.util.ArrayList;
+
+public class Test2 {
+public static void main(String[] args) {
+	
+	
+	ArrayList al= new ArrayList();
+	
+	
+	al.add("sweety");
+	al.add("mayank");
+	al.add("mahul");
+	al.add("uma");
+	al.add("arun");
+	
+	System.out.println(al);
+	
+	ArrayList al1= new ArrayList();
+	
+	al1.add("yajat");
+	al1.add("kushi");
+	al1.add("govindh");
+	
+	
+	al.addAll(al1);
+	System.out.println(al);
+	
+	al.retainAll(al1);
+	System.out.println(al);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+}
+ex:
+==
+package com.ia.collections;
+
+import java.util.ArrayList;
+import java.util.ListIterator;
+
+public class ListItrEx {
+public static void main(String[] args) {
+	
+	
+	
+	ArrayList<String> al= new ArrayList();
+	
+	al.add("sweety");
+	al.add("mayank");
+	al.add("mahul");
+	al.add("uma");
+	al.add("arun");
+	
+	System.out.println(al);
+
+	System.out.println("FORWARD DIRECTION");
+	ListIterator ltr=al.listIterator();
+	
+	while(ltr.hasNext()) {
+		System.out.println(ltr.next());
+	}
+	
+	
+	System.out.println("reverse direction");
+	
+	
+	while(ltr.hasPrevious()) {
+		System.out.println(ltr.previous());
+	}
+	
+	
+	
+	
+}
+}
+
+ex:
+==
+package com.ia.collections;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class IteratorEx {
+public static void main(String[] args) {
+	
+	
+	ArrayList<String> al= new ArrayList();
+	
+	
+	al.add("sweety");
+	al.add("mayank");
+	al.add("mahul");
+	al.add("uma");
+	al.add("arun");
+	
+	System.out.println(al);
+	
+	Iterator itr=al.iterator();
+	
+	while(itr.hasNext()) {
+		
+		
+		System.out.println(itr.next());
+	}
+	
+	
+	
+}
+}
+
+
+ex:
+----package com.ia.collections;
+
+import java.util.Comparator;
+import java.util.TreeSet;
+//only homogem[nous 
+//we can predect the output
+public class TreesetEx {
+public static void main(String[] args) {
+	
+	
+	
+	TreeSet<String > ts= new TreeSet(new MyComparator());
+	
+	ts.add("vinay");
+	ts.add("anjali");
+	ts.add("niharika");
+	ts.add("uma");
+	ts.add("kushi");
+	ts.add("sweety");
+	//ts.add(null);
+	
+	System.out.println(ts);
+}
+}
+
+class MyComparator implements Comparator{
+	
+	public int compare(Object arg0,Object arg1)
+	{
+		
+		String name1= (String) arg0;
+		String name=(String) arg1;
+		
+		return -name1.compareTo(name);
+		
+		
+	}
+	
+}
+ex:
+====
+package com.ia.collections;
+
+import java.util.ArrayList;
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		
+		ArrayList<mobile> al= new ArrayList();
+		
+		al.add(new mobile(100,"ram"));
+		al.add(new mobile(101,"seetha"));
+		al.add(new mobile(102,"anji"));
+		al.add(new mobile(103,"laxmn"));
+	
+		System.out.println(al);
+		
+		for(mobile e:al) {
+			
+			if(e.getEmpid()==102) {
+				System.out.println(e);
+			}
+		}
+		
+		
+		
+	}
+}
+
+
+
+PriorityQueue:()
+================
+implemented class for Queue interface 
+
+  FIFO : NATURAL SORTING ORDER: 
+  
+  it inherits the AbstractQueue
+  
+  
+  package com.ia.collections;
+
+import java.util.Iterator;
+import java.util.PriorityQueue;
+
+public class PriorityQEx {
+public static void main(String[] args) {
+	
+	PriorityQueue<String> pq= new  PriorityQueue<String>();
+	
+	pq.add("shruthi");
+	pq.add("vedika");
+	pq.add("anmol");
+	pq.add("kohli");
+	pq.add("ranganath");
+	
+	System.out.println("head:"+pq.element());
+	System.out.println(pq);
+	
+	Iterator itr=pq.iterator();
+	
+	while(itr.hasNext()) {
+		
+		System.out.println(itr.next());
+		
+	}
+	pq.remove();
+	pq.poll();
+	System.out.println(pq);
+	
+	itr=pq.iterator();
+	while(itr.hasNext()) {
+		System.out.println(itr.next());
+	}
+}
+}
+
+  
+  
+  Map:
+  ====
+  
+if we want to organize the data in the form of key value pair then we should go for Map Interface 
+
+properties of map:
+----------------
+
+file handling:
+--------------
+
+Generally in java programming we write applications or softwares in two ways 
+
+volatile or non persistence program 
+non-volatile or persistence program 
+
+
+A volatile program is one whose results is always stored into the main memory of computer 
+ i. e RAM . whatever the data which is stored in the maon memory of the computer taht data will be temporary
+ volatile memory 
+ 
+
+A non volatile program is one whose resuls is stored in secondary storage deveices: eg: hard disk, mangnetic tapes. etc
+the secondary storage devices are permnente storage.
+
+
+To store the data we have two approches 
+  *by using files 
+  *by using database 
+
+java.io.*;
+
+collection of records is known a file, a record is a collection of field values .
+
+A stream is a flow of data between primary memory to secondary memory 
+   locally to globally
+   
+   
+   
+  types of operations:
+  ==================
+   read operation 
+   write operation 
+   
+   
+   types of streams:
+   ================
+   byte stream 
+   charecter stream 
+   
+  byte stream :
+  ===========
+  
+  serialization:
+  ===========
+  
+  serilization is a process od writting the object data into network supported format  
+  
+  by defalut network wont be support object data thats y we have to convert this object dat into network suppoerted format
+  of file.
+      it is known as serilization 
+	 
+	if you want make a normal java class we need to implemnts serlization interface 
+	
+	
+	
+	predefine class: File
+  
+  
+    File f= new File("welcome.txt");
+	
+	   f.createNewFile();  //handles
+	   
+	   
+	==> if i  want to write some information into that file
+	
+	  these are all are predeffined classes
+	  
+	FileWriter, BufferedWriter,PrintWriter
+	
+	
+	1. package files;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class BufferedWriterEx {
+
+	public static void main(String[] args) throws IOException {
+		
+		FileWriter fw= new FileWriter("welcome.txt");
+	BufferedWriter bw= new BufferedWriter(fw);
+	
+	bw.write("welcome");
+	bw.write("to ");
+	bw.write("java");
+	bw.write("session");
+	bw.write(97);
+	bw.write(107);
+	bw.write(147);
+	
+	bw.close();
+		
+	System.out.println("inserted by using Buffered writer");
+		
+		
+		
+		
+	}
+}
+
+2. package files;
+
+import java.io.FileWriter;
+import java.io.IOException;
+//to write the information into the file 
+public class FileWriterEx {
+public static void main(String[] args) throws IOException {
+	
+	
+	FileWriter fw= new FileWriter("welcome.txt");
+	
+	fw.write("welcome");
+	fw.write("to ");
+	fw.write("java");
+	fw.write("session");
+	fw.write(97);
+	fw.write(107);
+	fw.close();
+	System.out.println("data is inserted");
+	
+	//disadvantage: it will allow only charecters
+}
+}
+
+3.package files;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class PrintWriterEx {
+public static void main(String[] args) throws IOException {
+	
+	
+	FileWriter fw= new FileWriter("welcome.txt");
+	PrintWriter pw= new PrintWriter(fw);
+	
+	
+	pw.println("welcoem");
+	pw.println("to");
+	pw.println("files");
+	pw.println("hello");
+	pw.println(90);
+	pw.println(true);
+	pw.close();
+	System.out.println("data is inserted");
+}
+}
+
+ex:
+===
+package files;
+
+import java.io.File;
+import java.io.IOException;
+
+public class Test {
+public static void main(String[] args) throws IOException {
+	
+	
+	File f= new File("welcome.txt"); //created file
+	
+	f.createNewFile();
+	
+	System.out.println("file is created");
+	
+}
+}
+
+
+
+to read the information  from the file 
+
+FileReader BuffereReader
+
+package files;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class FileReaderEx {
+public static void main(String[] args) throws IOException {
+	
+	
+	FileReader fr= new FileReader("welcome.txt");
+	
+	while(fr.read()!=-1) {
+		
+		char c=(char) fr.read();
+		System.out.print(c);
+	}
+}
+}
+
+
+ex:
+BuffereReader:
+--------------
+package files;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class FileReaderEx {
+public static void main(String[] args) throws IOException {
+	
+	
+	FileReader fr= new FileReader("welcome.txt");
+	
+	while(fr.read()!=-1) {
+		
+		char c=(char) fr.read();
+		System.out.print(c);
+	}
+}
+}
+
+
+
+
+	
+Generics:
+========
+the main objective of generics are to provide type-safety and to resolve type casting  problems.
+
+
+	type safety:
+	============
+	in the arrays:
+	===========
+	Arrays are type safe that is we can give the guarentee for the type of elemnts present i the array
+	
+	String [] s= new String[10000];
+	   s[0]="sathya";
+	   s[1]="sai ram";
+	   s[2]= new Integer(45); //incampatable type 
+	   
+	 
+collections are not type safe 
+	 
+	   ArrayList l= new ArrayList();
+	   
+	   l.add("kushi");
+	   l.add("mayank");
+	   l.add(new Integer(67)); //class cast exception
+	   
+  String name =l.get(2);
+	
+	we cant give gaurentee of type safety 
+	   collections rae not type safe 
+	   
+	   
+Type casting:
+==============	   
+	   
+	   String [] s= new String[1000];
+	   s[0]="sathya";
+	   
+	   String name=s[0];
+	   
+	   
+	   ArrayList al= new ArrayList();
+	   al.add("sathya");
+	   
+	    al.get(0);
+	   
+ex:
+=====	   
+package com.ia.collections;
+
+import java.util.ArrayList;
+
+public class Test5 {
+	public static void main(String[] args) {
+		
+		ArrayList<Object> al= new ArrayList<String>(); //CE:
+		al.add("sathya");
+		
+		
+		String name=(String) al.get(0);
+	}
+
+}
+
+	***
+package com.ia.collections;
+
+import java.util.ArrayList;
+
+public class Test5 {
+	public static void main(String[] args) {
+		
+		ArrayList<int> al= new ArrayList<int>(); //CE
+		al.add("sathya");
+		
+		
+		String name=(String) al.get(0);
+	}
+
+}
+	
+	   
+	   
+	   
+**
+1.4 version ARRYLIST CLASS
+class ArrayList{
+
+    add(Object o)
+	
+	Object get(int index);
+}	   
+***
+1.5
+
+class ArrayList<T extends Number>  Type safety	   
+	   
+	   {
+	   
+	   add(T k)
+	   
+	   T get(int index);
+	   }
+	   
+	   
+class Account{
+
+ Account<Gold> ac= new Account<Gold>();
+ Account<platinum> ac= new Account<platinum>();
+ 
+
+}	   
+   
+  Bounded type:
+  =============
+  we can bpund the type parameter by for a perticular range by using extends keyword
+  such type is called bounded type.
+  
+  class Test<T>{
+  
+  Test<Integer> t= new Test<Integer>();
+  Test<String> t= new Test<String>();
+  
+  
+  }
+  
+synatx for bounde type--
+=====================
+
+classs  Test<T extends Number>{
+
+Test<Integer> t= new Test<Integer>();// valid
+  Test<String> t= new Test<String>(); //not valid
+
+
+}	
+
+
+
+classs  Test<T extends Runnable>{
+
+Test<Runnable> t= new Test<Runnable>();// valid
+  Test<Thread> t= new Test<Thread>(); // valid
+Test<String> t= new Test<String>(); //not  valid
+
+}	
+
+conditions to take bounded type:
+================================
+class Test<T extends Runnable &Comparable>
+class Test<T extends Number &Runnable&Comparable>
+class Test<T extends Runnable &Number> //invalid
+class Test<T extends Runnable &Comparable>
+
+
+class Test<X,y>{
+
+}  
+
+class Test<k,v>
+{
+
+}  
+
+Generic methods with wildcard charecter(?):
+========================================
+
+m1(AL<String> l)
+{
+
+l.add("anmol");  //valid
+l.add(new Integer(45)); //
+
+}
+
+
+m1(Al<?>  l)
+
+{
+l.add("anmol");  //invalid
+l.add(10.2);//invalid
+l.add(20);//invalid
+l.add(null);//valid
+
+}
+
+
+
+
+*read only operation
+
+
+	
+	
+	
+	
+m1(Al<? extends x> l)
+{
+
+
+
+}	
+	
+	
+	
+m1(Al<? super x> l)
+{
+
+
+
+}	
+	
+	
+Exception Handling:
+==================
+
+Exception handling is a mechanism of converting system defined error messesge to user friendly error messages
+by using of exception handling.
+
+
+without exception handling:
+=====================
+1. system defined error messages 
+2. abnormal termination 
+	
+	
+with exception handling:
+======================
+1. user friendly messages 
+2. normal termination
+
+
+erorrs:
+=======
+1.compile time error 
+    compile time errors are occuring becz of poor understandinf of languageg
+   System.out.println("sathya")====>compile time error 
+2. run time error  or exception 
+    Run time errors are occuring in the program when the user inputs invalid data.
+   
+types of exceptions:
+=====================
+there are three types of exceptions 
+
+1. checked Eception
+2. Unchecked Exception 
+3. Errors
+
+                                      Object ApI
+									  
+									  
+                                Throwable
+								
+		1. pre defined                                                      2.user defined 
+
+              1.Asynchronous              2.synchronous 
+
+      java.lang.Error			                  java.lang.Exception         java.lang.RunTimeException
+	it deals with hardware and                 
+	external problems                   1. checked Exception               2.unchecked exception
+	                                           (hard disk)                       (main memory)
+											   
+	                                    FileNotFoundException			   ArithematicException						
+	BoostSTrapError                     ClassNotFoundException            ArrayIndexOutOfBoundException
+	InternalAccessError                 IlligalAccessModifierException   NumberFormatException
+	SecurityExceptions                  Interrupted Exception             NullPointerEception
+	OutOfmememoryError                  
+	VirtualMachineError
+	StackOverFlowError
+	UnknownError
+
+
+
+
+
+try catch finally throw throws 
+
+it is a keyword 
+
+try
+{
+//error code 
+arth
+}
+
+catch(handling code){
+  syn("");
+  }
+finally{
+   Syso("");
+}
+
+ex:
+=====
+package com.ia.exceptions;
+
+import java.util.Scanner;
+
+public class Test {
+public static void main(String[] args) {
+	
+	Scanner sc= new Scanner(System.in);
+	
+	System.out.println("Enter first number");
+	
+	int fnum=sc.nextInt();
+     System.out.println("Enter second number");
+	
+	int snum=sc.nextInt();
+	
+	try {
+	int z= fnum/snum;
+	
+	System.out.println("divison of two numbers:"+z);
+	}
+	catch(Throwable ae) {
+		System.out.println("dont enter denominotor as zero");
+		
+	}
+	System.out.println("remaining 20000 lines of code");
+	
+}
+}
+
+
+
+ex:
+package com.ia.exceptions;
+
+public class Exception1 {
+public static void main(String[] args) {
+	try {
+		
+	int a[]= new int[5];//0...4
+	a[4]=30/2;
+	String s= "100";
+	System.out.println(s.length());
+	int x= Integer.parseInt(s);
+	System.out.println("no error  "+a[4]+"  "+x);
+	
+	}
+	catch(ArrayIndexOutOfBoundsException ae) {
+		System.out.println("please enter valid index");
+	}
+	catch(ArithmeticException ae) {
+		System.out.println("dont enter denominotor as zero");
+	}
+	catch (NumberFormatException e) {
+	System.out.println("we cant convert String to number");
+	}
+	catch(Exception ae) {
+		System.out.println("unable to find length of the String");
+	}
+	finally {
+		System.out.println("executes every time to close the connection");
+	}
+	System.out.println("remaining 1000 lines of code");
+}
+}
+
+
+ex:
+---
+package com.ia.exceptions;
+
+public class Exceeption2 {
+	public static void main(String[] args) {
+
+		try {
+			int c = 12 / 4;
+
+			try {
+				System.out.println("division");
+				int b = 30 / 5;
+			} catch (ArithmeticException ae) {
+				System.out.println(ae);
+			}
+
+			try {
+				int a[] = new int[3];
+				a[2] = 4;
+			} catch (ArrayIndexOutOfBoundsException ae) {
+				System.out.println(ae);
+			} finally {
+				System.out.println("executes every time");
+			}
+			System.out.println("remaining try statement");
+		} catch (Exception e) {
+			System.out.println("handled");
+		}
+		System.out.println("normal executeion");
+	}
+}
+
+
+
+
+
+throw is a keyword which is used to create exception class object manually.
+
+thwors is akeyword which is used to indicate calling envi
+
+
+
+
+void m1(){
+
+  int a=23;
+  int b=0;
+  int c=a/b;
+
+
+}
+
+
+   A throws 
+
+
+
+how to create user defined exceptions:
+====================================
+
+1.your class should be extends of exception class
+2.your class need to take param constrcurtor
+
+ex:
+---
+package com.ia.exceptions;
+
+class MyException extends Exception{ //Object--11
+	
+	private int age;
+	
+	public MyException(int age) {
+		this.age=age;
+	}
+	
+	public String toString() {
+		return "you are not aligeble for vote";
+	}
+	
+}
+public class Test5 {
+
+	  static  void validation(int age) throws MyException {
+	    	if (age<18)
+	    		throw new MyException(age);
+	    	else
+	    		System.out.println("you are eleible for vote"+age);
+	    }
+	public static void main(String[] args) throws MyException {
+		
+		Test5.validation(12);
+		System.out.println("rest of the code");
+		
+		
+		
+		
+		
+	}
+}
+
+ex:
+---
+package com.ia.exceptions;
+
+public class ThrowEx {
+	
+	public void pass(int marks) {
+		
+		if (marks<35)
+			throw new ArithmeticException("you are failed");
+		
+		else
+		{
+			System.out.println("you are passed:"+marks);
+		}
+	}
+public static void main(String[] args) {
+	
+	ThrowEx t= new ThrowEx();
+	t.pass(12);
+	System.out.println("welcome");
+	
+	
+}
+}
+
+
+mutithreading:
+================
+
+                                  multitasking
+					
+				executing several tasks simulteniously is concept of 
+                                        
+							2 types of multi tasking
+
+
+
+1. process based multitasking                         2. Thread based multitasking 
+
+
+ def:    
+      Executing several tasks simulteniously where each task seperate indepent process such type
+is called "process based multi tasking"
+
+   ex:  writing some code in notepadd++, listning songs in vlc, downloading one file from browser
+   
+   
+     * it is best suitable for OS level, not programmatic level 
+	 
+	 ==> above these activities are ru simultenioulsy , this type of tasking is called process based 
+	 multi tasking.
+	 
+	 
+def:
+====
+     Executing several tasks simulteniously where each task seperate indepent of same program
+	 such type
+is called "Thread based multi tasking"
+
+
+
+
+
+ex: client  has 1000 lines ==> programmer==> 10hrs  (1 thread)
+
+   1000  500-->1   500--->2  ->5hrs====>
+
+   :* it is suitable for proagrammtic level .
+
+50membrs 10
+
+5 membrs 60
+
+
+  even it is thread based or process based the main objective of  multitasking is 
+      **********Reduce resposnce time
+	  **********improving the performance 
+	  
+	  
+	  
+	aplications of multithreading:
+=================================
+   * multimedia graphics
+   
+   * vedio games
+   * to develope animations
+   *to develope web servers and application servers 
+   
+   
+   *** java has rich Thread ApI
+   
+   
+Thread:
+=======
+Thread is a seperate flow of execution.
+
+   we can define a thread in two ways 
+   
+   1.By Extending Thread Class
+   2.By implementing the Runnable Interface(1 Abstract ) ==>(Functional Interface )
+       Samantha(SAM)==>Single Abstract Method
+
+
+
+
+ 1. myThread extends Thread   ==>
+
+ 2. myThread implemnts Runnable ==>
+
+
+
+
+1.By extending the Thread class:
+================================
+
+package com.ia.multithreading;
+
+class MyThread extends Thread{
+	
+	public void run() {
+		for (int i = 0; i < 10; i++) {
+			System.out.println("child thread");
+		}
+	}	
+}
+public class ThreadDemo {
+public static void main(String[] args) { //main thread
+	
+	MyThread mt= new MyThread();
+	
+	
+	mt.start();// interanlly call the runmethod
+	
+	for (int i = 0; i <10; i++) {
+		
+		System.out.println("main thread");
+		
+	}
+	
+}
+}
+
+	  
+	  
+	  
+  thread schedular:
+===========  
+
+	 it is the part of jvm, it is resposnsible to schedule which thread going to first.
+	 
+	 
+	 t.start(){
+	 
+	  register with the thread schedular 
+	  perform all moandetory operations
+	  invoke the run method
+	 }
+	 
+
+
+ex:
+==
+package com.ia.multithreading;
+
+class MyThread extends Thread{
+	
+	public void run() {
+		for (int i = 0; i < 10; i++) {
+			System.out.println("child thread");
+		}
+	}
+	
+	public int run(int i) {
+		System.out.println("int arg method");
+		
+		return 7;
+	}
+	
+}
+public class ThreadDemo {
+public static void main(String[] args) { //main thread
+	
+	MyThread mt= new MyThread();
+	
+	
+	mt.start();// interanlly call the runmethod
+	
+	for (int i = 0; i <10; i++) {
+		
+		System.out.println("main thread");
+		
+	}
+	
+}
+}
+
+
+hence: start method will call only no arg run method, remaing things we need to call explicitly.
+
+
+Overriding start():
+=================
+it is not recomnded to overrirde the start method. here if we call start method its like normal methd calling
+
+ if we override the start method, dont go with multithrading.
+ex:
+===
+package com.ia.multithreading;
+
+class MyThread extends Thread{
+	
+	public void start() {
+		System.out.println("start method");
+	}
+	
+	public void run(int i) {
+		System.out.println("run method");
+	}
+		
+}
+public class ThreadDemo {
+public static void main(String[] args) { //main thread
+	
+	MyThread mt= new MyThread();
+		
+	mt.start();// interanlly call the runmethod
+	
+	System.out.println("main thread");       //3  1 la
+	
+}
+}
+
+
+getting and setting name of a thread:
+====================================
+package com.ia.multithreading;
+
+class Demo extends Thread{
+	public void run() {
+		//System.out.println("child thread");//thread-0
+		System.out.println("child before"+Thread.currentThread().getName());
+		
+		//System.out.println(Thread.currentThread().setName("soma"));
+		
+		System.out.println(Thread.currentThread().getName());
+	}
+	
+}
+public class GetNameEx {
+	public static void main(String[] args) { //
+		
+		Demo d= new Demo();
+		Demo d1= new Demo();
+		
+		d.start();
+		d1.start();
+		
+		d.setName("soma");
+			
+		//System.out.println("main thread");
+		
+		System.out.println("mai thread before"+Thread.currentThread().getName()); //main
+		
+		Thread.currentThread().setName("Sathya");
+		System.out.println(Thread.currentThread().getName());
+	}
+
+}
+
+
+
+Thread priority:
+=================
+
+max_priority   : 10
+
+norm priority : 5
+
+
+MIN PRIORITY  :1
+
+
+ex:
+===
+package com.ia.multithreading;
+
+class Demo1 extends Thread{
+	
+	public void run() {
+		System.out.println("child");
+		System.out.println("child thread :"+Thread.currentThread().getPriority()); //1,
+	}
+}
+public class ProrityEx {
+public static void main(String[] args) {
+	Demo1 d= new Demo1();
+	d.setPriority(10);
+	d.start();
+	
+	System.out.println("main");
+	System.out.println("main thread :"+Thread.currentThread().getPriority()); //5
+	Thread.currentThread().setPriority(8);
+	System.out.println(Thread.currentThread().getPriority());
+	
+}
+}
+
+
+thread life cycle:
+====================
+
+
+
+ 3 6 8 4
+
+   5 8 9 5 4 5
+
+
+yield:
+=====
+package com.ia.multithreading;
+
+class Demo3 extends Thread{
+	
+	public void run() {
+		for (int i = 0; i < 10; i++) {
+			System.out.println("seetha thread"); //child thread
+			
+			Thread.yield();
+		}
+	}
+}
+public class YieldEx {
+public static void main(String[] args) {
+	
+	Demo3 d= new Demo3();
+	d.start();
+	
+	for (int i = 0; i < 10; i++) {
+		System.out.println("main thread"); //main thread
+	}
+}
+}
+
+join:
+-----
+if a thread wants to wait until some time completing of other thread then we sholud go for join method
+
+
+
+package com.ia.multithreading;
+
+
+class Demo4 extends Thread{
+	
+	public void run() {
+		for (int i = 0; i < 10; i++) {
+			System.out.println("seetha thread"); //child thread
+			
+			try {
+				Thread.sleep(2000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		}
+	}
+}
+public class JoinEx {
+public static void main(String[] args) throws InterruptedException {
+	
+	Demo4 d= new Demo4();
+	
+	d.start();
+	d.join(10000);
+	
+	for (int i = 0; i < 10; i++) {
+		System.out.println("main thread thread"); //child thread
+		
+		Thread.yield();
+	}
+}
+}
+
+
+sleep:
+=====
+
+
+package com.ia.multithreading;
+
+
+public class SleepEx {
+public static void main(String[] args) {
+	
+	
+	for (int i = 0; i < 10; i++) {
+		System.out.println("slide show :"+i);
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}
+}
+
+
+Varibales:
+==========
+
+local global 
+
+instance and static 
+
+local:  we can store with in the method
+
+static : @tym of class loading into jvm 
+
+instance: @tym of object creation
+
+
+int age=45, void m1(int a); ,   static float salary=8900.00f;  static int get();
+
+
+     user u lng    javac
+.java------------>compiler------------->.class------>jvm will execute (main method is there are not)
+
+jdk:jre+compiler-->jvm
+
+JVM Architecture:
+----------------
+jvm--->execute all the things
+
+
+   three parts 
+   
+   CLSS: class loader sub system 
+   
+   memory area :
+   
+   execution area:
+
+
+Class Loader sub system:
+====================
+
+Loading:
+    BoostSTrapclassLoader:
+	   it will load the rt.jar file into the jvm
+	extension class loader 
+	   it will all ext.jar files
+	Application class loader 
+	   it will load remaing reaming jar files.
+
+   verify:
+     it willverify the byte code in the class file it is arranger proper or not
+   prepare:
+     it will prepare the defalut values for declared variables
+	 
+	 initilization: it will override the values initilized over with defalut values.
+   
+
+
+synchronization:
+===============
+
+synchronized is modifier it is used for only methods and blocks not not for classes and varibles
+
+if multiple threads are executing simulteniously at the same object then we are getting "data incosistency"
+problem.
+  TO overcome this problem synchronized kew.
+  
+ synch m1(); //5000+5000:10k
+  
+  t1.start();
+  t2.stat();
+
+
+[hhsggsg]
+[dshhsh]
+[hdsshhs]
+
+
+
+ex:
+---
+package com.ia.multithreading;
+
+class First{
+	
+	 void dispaly(String msg) { //[welcome][tonew][java]
+		
+		System.out.print("["+msg);
+		
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("]");
+	}
+}
+class Second extends Thread{
+	
+	String msg;
+	First fobj;//has- a realtion
+	
+	Second(First fobj,String msg){
+		this.fobj=fobj;
+		this.msg=msg;
+		this.start();	
+	}
+	
+	public void run() {
+		
+		fobj.dispaly(msg);
+		
+	}
+}
+public class WithSynch {
+public static void main(String[] args) {
+	
+	First fnew= new First();
+	
+	Second ss= new Second(fnew, "welcome");
+	Second ss1= new Second(fnew, "tonew");
+	Second ss2= new Second(fnew, "java");
+}
+}
+
+
+DeadLock:
+=========
+
+synchronized : thread has object of  one lock:(m1(), dispaly()): 1sec 1mex
+
+synchronized : thread has object of  one lock:(m2(), dispaly()): 1mis mh
+
+ex:
+=====
+package com.ia.multithreading;
+
+class A {
+
+	public synchronized void d1(B b) {
+		System.out.println("thread 1 satrts execution of d1() method");
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		System.out.println("Thread 1 trying to call B's last()method");
+		b.last();
+
+	}
+
+	public synchronized void last() {
+		System.out.println("inside A's this is last() method");
+	}
+
+}
+
+class B {
+
+	public synchronized void d2(A a) {
+		System.out.println("thread 2 satrts execution of d2() method");
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		System.out.println("Thread 2 trying to call A's last()method");
+		a.last();
+	}
+
+	public synchronized void last() {
+		System.out.println("inside B's this is last() method");
+	}
+}
+
+public class SynchLock extends Thread {
+
+	A a = new A();
+	B b = new B();
+
+	public void m1() {
+		this.start();
+		a.d1(b); // it is executed by the main thread
+
+	}
+
+	public void run() {
+		b.d2(a); // this line executed by the child thrad
+	}
+
+	public static void main(String[] args) {
+
+		SynchLock sc = new SynchLock();
+		sc.m1();
+	}
+}
+
+
+Inter Thread Communication:
+===========================
+
+two thrrads are communicating with eact other by using of wait,notify notifyall();
+
+
+1      2 
+
+
+ex:
+=
+package com.ia.multithreading;
+
+class Demo2 {
+	int amount = 5000;
+
+	synchronized void withdraw(int amount) {
+		System.out.println("going to withdraw money");
+
+		if (this.amount < amount) {
+			System.out.println("LESS BALANCE ...WAITING FOR DEPOSITE");
+
+			try {
+				wait();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			this.amount -= amount;
+			System.out.println("withdrwa is completed");
+		}
+	}
+
+	synchronized void deposite(int amount) {
+		System.out.println("going to deposite");
+		this.amount += amount;
+		System.out.println("deposite is completed");
+		notify();
+	}
+
+}
+
+public class HimankEx {
+
+	public static void main(String[] args) {
+
+		Demo2 d = new Demo2();
+
+		new Thread() {
+
+			public void run() {
+				d.withdraw(6000);
+			}
+		}.start();
+
+		new Thread() {
+
+			public void run() {
+				d.deposite(2000);
+			}
+		}.start();
+
+	}
+}
+
+
+
+key, value 
+
+key object 
+
+value object 
+
+key and value objects are both homogenous and heterogenous 
+key object is not duplicated 
+values objects can be duplicate 
+null insertion is possible 
+insertion order is not preserved 
+
+HashMap LinkedHashMap  TreeMap
+
+Entry: key value   pair 
+
+
+ex:
+===
+package com.ia.collections;
+
+import java.util.HashMap;
+import java.util.Iterator;
+
+public class HashMapEx {
+public static void main(String[] args) {
+	
+	HashMap hs= new HashMap();
+	
+	hs.put(100,"ram");
+	hs.put(101,"krishna");
+	hs.put(102,"gopal");
+	hs.put(103,"niranjan");
+	
+	hs.put("ram",100);
+	hs.put(true,345.56);
+	hs.put(null,null);
+	
+	System.out.println(hs);
+	
+	
+	
+}
+}
+
+ex:
+===
+package com.ia.collections;
+
+import java.util.HashMap;
+
+public class HashMapEx1 {
+
+	public static void main(String[] args) {
+		
+		HashMap<Integer,String> hs= new HashMap();
+		
+		hs.put(100,"ram");
+		hs.put(102,"kinjol");
+		hs.put(103,"baishali");
+		
+		System.out.println(hs.get(100));//ram
+		System.out.println(hs.isEmpty()); // false
+		System.out.println(hs.containsKey(103));// false
+		System.out.println(hs.remove(100));//ram
+		System.out.println(hs.size());//2
+		hs.clear();
+		System.out.println(hs.size());//2 0 null
+		System.out.println(hs);
+		
+	}
+}
+
+ex:
+==
+package com.ia.collections;
+
+import java.util.HashSet;
+//duplicates are not allowed
+//insertion order is not preserved
+public class HashSetEx {
+
+	public static void main(String[] args) {
+		
+		
+		HashSet hs= new HashSet();
+		
+		hs.add("anjali");
+		hs.add("raju");
+		hs.add(78);
+		hs.add(45.06);
+		hs.add('h');
+		hs.add("anjali");
+		hs.add(null);
+		System.out.println(hs);
+		
+	}
+}
+
+ex:
+===
+package com.ia.collections;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class IteratorEx {
+public static void main(String[] args) {
+	
+	
+	ArrayList<String> al= new ArrayList();
+	
+	
+	al.add("sweety");
+	al.add("mayank");
+	al.add("mahul");
+	al.add("uma");
+	al.add("arun");
+	
+	System.out.println(al); //[rff,kjj,kkj]
+	
+	
+	Iterator itr=al.iterator();  //universor
+	
+	while(itr.hasNext()) {
+		
+		
+		System.out.println(itr.next());
+	}
+	
+	
+	
+}
+}
+
+ex:
+---
+package com.ia.collections;
+
+import java.util.Iterator;
+import java.util.Set;
+import java.util.TreeMap;
+
+public class KeySetEx {
+public static void main(String[] args) {
+	
+	TreeMap<Integer,String> tm= new TreeMap();
+	
+	tm.put(111, "ramesh");
+	tm.put(112, "sai");
+	tm.put(114, "harish");
+	tm.put(116, "mahesh");
+	tm.put(119, "amender");
+	System.out.println(tm);
+	
+	Set<Integer> keys=tm.keySet();
+	
+	Iterator itr=keys.iterator();
+	
+	while(itr.hasNext()) {
+		System.out.println(itr.next());
+	}
+	
+}
+}
+
+ex:
+----
+package com.ia.collections;
+
+import java.util.Iterator;
+import java.util.Map.Entry;
+import java.util.Set;
+import java.util.TreeMap;
+
+public class EntrySetEx {
+
+	public static void main(String[] args) {
+		
+		TreeMap<Integer,String> tm= new TreeMap();
+		
+		tm.put(111, "ramesh");
+		tm.put(171, "divya");
+		tm.put(181, "ammulu");
+		tm.put(141, "janu");
+		
+		System.out.println(tm);
+		
+		Set<Entry<Integer,String>> result=tm.entrySet();
+		
+		Iterator itr=result.iterator();
+		
+		while(itr.hasNext()) {
+			System.out.println(itr.next());
+		}
+        
+		
+	}
+}
+
+
+
+
+  
+  
+java 8 features:
+================
+
+java 8 features came into in the year of 2014 march 18th
+
+
+
+10 lines :  20 30 lines 
+
+java also"to concie the " code 
+
+enableng the functional programming we are going to write the oncise the code 
+
+
+Lamda expression:
+==================
+
+1930 lamda expression:
+
+LISP: 
+
+THE MAIN OBJECTIVE OF LAMDA EXPRESSION IS TO BRING THE BENIFITS OF FUNCTIONAL PROGRAMING INTO JAVA 
+
+
+
+WHAT IS LAMDA EXPRESIION:
+======================
+
+it is an Anonymous(nameless ) function
+
+      nameless 
+	  without return type 
+	  without modifiers 
+
+
+
+
+ex:
+
+in java:
+-----------
+public void m1()
+{
+System.out.println("hello world");
+}
+
+
+by using lamda expresion:
+===========================
+
+ ()->{System.out.println("hello world");} //lamda expression 
+
+()->System.out.println("hello world");
+
+
+ex:
+====
+
+public void m2(int a, int b){
+
+System.out.println(a+b);
+
+}
+
+
+
+lamda :
+=======
+
+  (int a, int b)->{System.out.println(a+b);}
+
+  (a,  b)->System.out.println(a+b);
+
+
+ex:
+====
+
+public int square(int n){
+return n*n;
+}
+
+lamda:
+======
+
+
+
+(n)->{return n*n;}
+
+n->n*n;
+
+
+ex:
+====
+
+public void m3(String s){
+
+return s.length();
+}
+
+lamda:
+=====
+
+s->s.length();
+
+
+
+Functional Interface:
+===================
+
+
+
+
+Runnable--->run()
+Comaprable---->compareTo()
+Callable--->call()
+
+
+sam: single abstratc method 
+
+ex:=
+=====
+@Functional Interface 
+interface A{
+ public void m1();
+ 
+}
+@Functional Interface
+interface B extends A
+{
+
+
+}
+
+//it is valid 
+
+
+ex:
+====
+
+@Functional Interface 
+interface A{
+ public void m1();
+ 
+}
+@Functional Interface
+interface B extends A
+{
+public void m1();
+
+}
+
+
+//valid
+
+
+ex:
+===
+
+
+@Functional Interface 
+interface A{
+ public void m1();
+ 
+}
+@Functional Interface
+interface B extends A
+{
+public void m2();
+
+}
+
+
+//not valid 
+
+
+
+ex:
+====
+
+
+interface A{
+ public void m1();
+ 
+}
+
+interface B extends A
+{
+public void m2();
+
+}
+	
+	
+	//valid 
+	
+	
+	package com.ia.java8;
+---------
+//without lamda
+@FunctionalInterface
+interface Interf{
+	public void m1();
+	
+}
+class Demo implements Interf{
+
+	@Override
+	public void m1() {
+	System.out.println("helloo ..........");
+	}
+}
+
+public class TestLamdaex {
+public static void main(String[] args) {
+	
+	
+	Demo d= new Demo();
+	d.m1();
+}
+}
+
+ex:
+===
+package com.ia.java8;
+
+//with lamda
+@FunctionalInterface
+interface Interf{
+	public void m1();
+	
+}
+public class TestLamdaex {
+public static void main(String[] args) {
+	
+	Interf i=  ()->System.out.println("hello...");
+	
+	i.m1();
+}
+}
+
+Runnable:
+=========
+package com.ia.java8;
+
+class MyRunnable implements Runnable{
+	
+	public void run() {
+		for (int i = 0; i <10; i++) {
+			System.out.println("child thread");
+		}
+	}
+}
+public class RunEx {
+public static void main(String[] args) {
+	
+	MyRunnable mr= new MyRunnable();
+	
+	Thread t= new Thread(mr);
+	t.start();
+	
+	for (int i = 0; i <10; i++) {
+		System.out.println("main thread");
+	}
+}
+}
+
+
+with lamda:
+===========
+
+package com.ia.java8;
+
+
+public class RunEx {
+public static void main(String[] args) {
+	
+	Runnable r=()->{
+		
+		for (int i = 0; i <10; i++) {
+			System.out.println("child thread");
+		}
+	};
+	
+	Thread t= new Thread(r);
+	t.start();
+	
+	for (int i = 0; i <10; i++) {
+		System.out.println("main thread");
+	}
+}
+}
+
+
+mobile:
+=========
+package com.ia.java8;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+class mobile{
+	int eno;
+	String ename;
+	
+	public mobile(int eno,String ename) {
+		this.eno=eno;
+		this.ename=ename;
+	}
+	
+	public String toString() {
+		return eno+""+ ename;
+	}
+	
+}
+public class Test {
+public static void main(String[] args) {
+	
+	
+	ArrayList<mobile> ar= new ArrayList<mobile>();
+	
+	ar.add(new mobile(123,"raghu"));
+	ar.add(new mobile(124,"sweety"));
+	ar.add(new mobile(125,"uma"));
+	ar.add(new mobile(126,"anmol"));
+	
+	System.out.println(ar);
+	
+	
+	Collections.sort(ar,(e1,e2)->(e1.eno>e2.eno)?1:(e1.eno>e2.eno)?-1:0);
+	
+	System.out.println(ar);
+	
+}
+}
+	   
+	   
+Anonymous inner class:==
+========================
+
+Thread t= new Thread(){
+
+
+
+};
+	
+  
+  Runnale r= new Runnable(){
+  
+  
+  
+  .....
+  };
+  
+  
+  
+public class RunEx {
+public static void main(String[] args) {
+	
+	Runnable r=new Runnable()
+	{
+		
+		for (int i = 0; i <10; i++) {
+			System.out.println("child thread");
+		}
+	}; //inner class
+	
+	Thread t= new Thread(r);
+	t.start();
+	
+	for (int i = 0; i <10; i++) {
+		System.out.println("main thread");
+	}
+}
+}
+
+  
+  Default methods:
+  ---------------
+  
+  
+  interafec I{
+  
+  public void m1();
+  public void m2();
+  
+  }
+  |
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  interafece Test100{
+  public void m1();
+  public void m2();
+  }
+  
+  
+
+
+ex:
+===
+interafec I{
+  
+deault void m1(){
+  Syso ("");
+}
+
+  }
+ 
+ 
+ 
+ package com.ia.java8;
+
+interface I{
+	
+	default void m1()
+	{
+		System.out.println("hello");
+	}
+}
+public class DefaultEx implements I{
+	
+	public  void m1()
+	{
+		System.out.println("hello its new ");
+	}
+
+	public static void main(String[] args) {
+		
+		DefaultEx da= new DefaultEx();
+		
+		da.m1();
+		
+	}
+}
+
+static methods:
+============
+package com.ia.java8;
+
+interface X{
+	
+	public static void m1() {
+		System.out.println("interface static method");
+	}
+}
+public class StaticEx implements X {
+public static void main(String[] args) {
+	
+	X.m1();
+	
+}
+}
+
+predefined Functional interface:
+===============================
+
+Predicate
+Function 
+Consumer
+Supplier
+ 
+
+
+Predicate(I):
+-------
+
+public abstract boolean test(T)
+
+
+interface Predicate<T>
+{
+public boolean test(T t);
+}
+
+eg:
+===
+
+
+public boolean test(Integer i)
+
+{
+if (i%==2)
+{
+return true
+}
+else{ 
+return false;
+}
+}
+
+
+lamda:
+=====
+i->i%2==0;
+
+
+
+package com.ia.java8;
+
+import java.util.function.Predicate;
+
+public class PredicateEx {
+public static void main(String[] args) {
+	
+	
+//	Predicate<Integer> p1=i->i%2==0;
+//	
+//	System.out.println(p1.test(45)); //f
+//	System.out.println(p1.test(12)); //t
+	
+	String[] s= {"nag","chaitu","sam","chiranjeevi"};
+	
+	Predicate<String> p1=a->a.length()>5;
+	
+	for(String s1:s) 
+	{
+		
+	if(p1.test(s1));
+	System.out.println(p1.test(s1));
+	}
+	
+	
+	
+}
+}
+
+
+Function:
+----------
+
+input-->perform some opeeration and produce the result.
+
+
+interface Function<T p>{
+
+public R  apply(T,t);
+
+}
+
+
+package com.ia.java8;
+
+import java.util.function.Function;
+
+public class FunctionEx {
+public static void main(String[] args) {
+	
+//	Function<Integer,Integer> f=i->i*i;
+//	
+//	System.out.println(f.apply(7)); //49
+//	
+	
+	
+	Function<String,Integer> f= s->s.length();
+	
+	System.out.println(f.apply("sathya")); //6
+	System.out.println(f.apply("ritika"));//6
+	System.out.println(f.apply("amandeep"));//8
+	
+}
+}
+
+
+consumer:
+========
+Consumer<T>   void 
+
+it is function it will take input and will not return anything .
+
+method name:  accept();
+
+package com.ia.java8;
+
+import java.util.function.Consumer;
+
+public class ConsumerEx {
+	public static void main(String[] args) {
+		
+		Consumer<String> c= s->System.out.println(s);
+		
+		c.accept("soma");
+		c.accept("soma swamy");
+		
+	}
+
+}
+
+
+Supplier:
+=========
+it will supply the required object but it wont any input.
+
+method name: get();
+
+
+
+package com.ia.java8;
+
+import java.sql.Date;
+import java.util.function.Supplier;
+
+public class SupplierEx {
+	  static String product = "Android";
+	  
+public static void main(String[] args) {
+	
+	 Supplier<Boolean> boolSupplier = () -> product.length() == 10;
+	
+	  System.out.println(boolSupplier.get());
+}
+}
+
+database:
+=========
+
+a database is an organized collectionof data,so that it can be easily accessed and 
+maintained or maniulated.
+
+security:username :passwrd
+
+
+DBMS   RDBMS 
+
+rdbms:
+------
+
+MYSQL
+ORACLE
+POSTGRES
+INGRESS
+SYBASE
+DB2
+.......
+
+.JAVA FILE=============>.CLASS FILE (MACHINE CAN UNDERSTAND)
+
+
+sql:
+    strutured query langugae 
+	
+	this is standard for all db
+	
+	by using query language we can manipulate the data in the  database 
+
+POSTGRES:
+========
+
+
+create the database:
+---
+
+
+syntax: create database databasename:
+   
+        postgres=# create database mobiles;
+CREATE DATABASE
+
+
+To connect with the database:
+   postgres=# \c mobiles
+You are now connected to database "mobiles" as user "postgres".
+   
+
+
+
+
+
+sql subcategories:
+======
+=============
+
+
+DDL(data definition langauge):create,drop,alter,truncate,rename
+DML(data manipulation language):insert,update ,delete 
+DCL(data control langauge):grant,revoke
+TCL(transaction controllanigae): commit,rollback.
+DRL(data retrival language): select
+
+
+create:
+------
+create table tablename(name datatype,name datatype);
+     mobiles=# create table emp(eid int,ename varchar(10));
+CREATE TABLE
+
+To describe the table :
+
+   syntax: \d tablename
+  
+    mobiles=# \d emp;
+                       Table "public.emp"
+ Column |         Type          | Collation | Nullable | Default
+--------+-----------------------+-----------+----------+---------
+ eid    | integer               |           |          |
+ ename  | character varying(10) |           |          |
+
+
+To show the table data:
+  
+ syntax:  select * from tablename;
+ 
+          mobiles=# select * from emp;
+ eid | ename
+-----+-------
+(0 rows)
+
+Alter:
+------
+add:
+=====
+
+alter table tablename add column coulmnname datatype;
+     mobiles=# alter table emp add column esal int;
+ALTER TABLE
+
+   mobiles=# \d emp;
+                       Table "public.emp"
+ Column |         Type          | Collation | Nullable | Default
+--------+-----------------------+-----------+----------+---------
+ eid    | integer               |           |          |
+ ename  | character varying(10) |           |          |
+ esal   | integer
+ 
+ 
+ rename:
+ =======
+ alter table tablename rename column esal to esalary;
+ 
+ mobiles=# alter table emp rename column esal to esalary;
+ALTER TABLE
+mobiles=# \d emp;
+                        Table "public.emp"
+ Column  |         Type          | Collation | Nullable | Default
+---------+-----------------------+-----------+----------+---------
+ eid     | integer               |           |          |
+ ename   | character varying(10) |           |          |
+ esalary | integer               |           |          |
+
+
+modify:
+===========
+
+alter table tablename alter column columname type datatype;
+
+   mobiles=# alter table emp alter column eadd type varchar(15);
+ALTER TABLE
+mobiles=# \d emp;
+                        Table "public.emp"
+ Column  |         Type          | Collation | Nullable | Default
+---------+-----------------------+-----------+----------+---------
+ eid     | integer               |           |          |
+ ename   | character varying(10) |           |          |
+ esalary | integer               |           |          |
+ eadd    | character varying(15) |           |          |
+
+ drop:
+ =====
+ alter table tablename drop column columnname;
+ 
+   mobiles=# alter table emp drop column eadd;
+ALTER TABLE
+
+  mobiles=# \d emp
+                        Table "public.emp"
+ Column  |         Type          | Collation | Nullable | Default
+---------+-----------------------+-----------+----------+---------
+ eid     | integer               |           |          |
+ ename   | character varying(10) |           |          |
+ esalary | integer
+ 
+ 
+ 
+ 
+rename table name:
+mobiles=# ALTER TABLE emp RENAME TO emp1;
+ALTER TABLE 
+
+insert:
+-----
+insert into tablename values(1stname,secondname);
+
+ 
+mobiles=# insert into emp1 values(123,'sathya',1000);
+INSERT 0 1
+
+
+
+mobiles=# select * from emp1;
+ eid | ename  | esalary
+-----+--------+---------
+ 123 | sathya |    1000
+(1 row)
+
+
+mobiles=# insert into emp1 values(144,'mehul',50000);
+INSERT 0 1
+mobiles=# select * from emp1;
+ eid | ename  | esalary
+-----+--------+---------
+ 123 | sathya |    1000
+ 144 | mehul  |   50000
+(2 rows)
+
+
+mobiles=# insert into emp1 values(156,'sweety',188000);
+INSERT 0 1
+mobiles=# select * from emp1;
+ eid | ename  | esalary
+-----+--------+---------
+ 123 | sathya |    1000
+ 144 | mehul  |   50000
+ 156 | sweety |  188000
+(3 rows)
+ 
+ update:
+ ======
+ update tableanme set columnane=value where name=value;
+ 
+ mobiles=# update emp1 set eid=145 where ename='sweety';
+UPDATE 1
+
+
+mobiles=# select * from emp1;
+ eid | ename  | esalary
+-----+--------+---------
+ 144 | mehul  |   50000
+ 145 | sweety |  188000
+ 123 | sathya |     100
+(3 rows)
+
+Truncate:
+--------
+
+truncate table tablename;
+
+
+
+mobiles=# delete from emp1;
+DELETE 3
+mobiles=# \d emp1;
+                       Table "public.emp1"
+ Column  |         Type          | Collation | Nullable | Default
+---------+-----------------------+-----------+----------+---------
+ eid     | integer               |           |          |
+ ename   | character varying(10) |           |          |
+ esalary | integer               |           |          |
+
+
+mobiles=# insert into emp1 values(100,'ranganath',200000);
+INSERT 0 1
+mobiles=# insert into emp1 values(101,'yakshesh',300000);
+INSERT 0 1
+mobiles=# insert into emp1 values(103,'shubam',400000);
+INSERT 0 1
+mobiles=# select * from emp1;
+ eid |   ename   | esalary
+-----+-----------+---------
+ 100 | ranganath |  200000
+ 101 | yakshesh  |  300000
+ 103 | shubam    |  400000
+(3 rows)
+
+
+mobiles=# commit;
+WARNING:  there is no transaction in progress
+COMMIT
+mobiles=# COMMIT;
+WARNING:  there is no transaction in progress
+COMMIT
+mobiles=# truncate table emp1;
+TRUNCATE TABLE
+mobiles=# select * from emp1;
+ eid | ename | esalary
+-----+-------+---------
+(0 rows)
+
+
+constraints:
+===========
+
+constraint is a concept of rule or ristriction on table data.
+
+
+not null : it will not alloww the null values , it will allow duplicte values
+
+unique : it will not allow the duplicate values ,it will aloow the null values 
+
+
+check  :  condition checking based 
+
+
+primary key : unique+not null
+
+
+foreign key : relation ship
+
+
+mobiles=# create table stud(eid int not null,ename varchar(10) unique,esal int);
+CREATE TABLE
+mobiles=# \d stud
+                       Table "public.stud"
+ Column |         Type          | Collation | Nullable | Default
+--------+-----------------------+-----------+----------+---------
+ eid    | integer               |           | not null |
+ ename  | character varying(10) |           |          |
+ esal   | integer               |           |          |
+Indexes:
+    "stud_ename_key" UNIQUE CONSTRAINT, btree (ename)
+
+
+mobiles=# insert into stud values(100,'mohit',70000);
+INSERT 0 1
+mobiles=# insert into stud values(101,'mohit',90000);
+ERROR:  duplicate key value violates unique constraint "stud_ename_key"
+DETAIL:  Key (ename)=(mohit) already exists.
+
+
+mobiles=# insert into stud(ename,esal) values('sweety',89000);
+ERROR:  null value in column "eid" violates not-null constraint
+DETAIL:  Failing row contains (null, sweety, 89000).
+
+
+mobiles=# insert into stud1 values(143,'sathya',200);
+ERROR:  new row for relation "stud1" violates check constraint "stud1_esal_check"
+DETAIL:  Failing row contains (143, sathya, 200).
+
+
+mobiles=# create table stud2(eid int,ename varchar(15) primary key,esal int);
+CREATE TABLE
+mobiles=# alter table stud2 add constraint sathya_chq check(esal<10000);
+ALTER TABLE
+mobiles=# \d stud2;
+                      Table "public.stud2"
+ Column |         Type          | Collation | Nullable | Default
+--------+-----------------------+-----------+----------+---------
+ eid    | integer               |           |          |
+ ename  | character varying(15) |           | not null |
+ esal   | integer               |           |          |
+Indexes:
+    "stud2_pkey" PRIMARY KEY, btree (ename)
+Check constraints:
+    "sathya_chq" CHECK (esal < 10000)
+	
+	
+	
+mobiles=# insert into stud2 values(100,'divya',78000);
+ERROR:  new row for relation "stud2" violates check constraint "sathya_chq"
+DETAIL:  Failing row contains (100, divya, 78000).
+mobiles=# insert into stud2 values(100,'divya',8000);
+INSERT 0 1
+
+
+mobiles=# insert into stud2 values(101,'divya',4500);
+ERROR:  duplicate key value violates unique constraint "stud2_pkey"
+DETAIL:  Key (ename)=(divya) already exists.
+mobiles=# insert into stud2(eid,esal) values(101,4500);
+ERROR:  null value in column "ename" violates not-null constraint
+DETAIL:  Failing row contains (101, null, 4500).
+
+
+
+
+
+
+empid  empname   esal    eadd    deptno(fk)   
+
+1      sathya    100      hyd      10       
+2      rahul    1000      hyd      20     
+3      anmol    3000      hyd      20     
+4      yajat    9000      hyd      30     
+5      raghu    67000      hyd      10     
+6      prem     50000      hyd      30      
+
+
+deptno
+pk
+deptno   dname      dloc
+
+10      dev        delhi 
+
+20     admin        mumbai
+
+30      hr        kochi
+
+emp dept tables:
+=============================************
+link :  https://gist.github.com/julianhyde/13b55f716060649da96d8dcad1316546
+
+
+
+
+
+
+mobiles=# select * from dept;
+ deptno |   dname    |   loc
+--------+------------+----------
+     10 | ACCOUNTING | NEW YORK
+     20 | RESEARCH   | DALLAS
+     30 | SALES      | CHICAGO
+     40 | OPERATIONS | BOSTON
+(4 rows)
+
+
+mobiles=# select * from emp;
+ empno | ename  |    job    | mgr  |   hiredate    |   sal   |  comm   | deptno
+-------+--------+-----------+------+---------------+---------+---------+--------
+  7839 | KING   | PRESIDENT |      | 1981-11-17    | 5000.00 |         |     10
+  7698 | BLAKE  | MANAGER   | 7839 | 1981-05-01    | 2850.00 |         |     30
+  7782 | CLARK  | MANAGER   | 7839 | 1981-06-09    | 2450.00 |         |     10
+  7566 | JONES  | MANAGER   | 7839 | 1981-04-02    | 2975.00 |         |     20
+  7788 | SCOTT  | ANALYST   | 7566 | 0001-04-19 BC | 3000.00 |         |     20
+  7902 | FORD   | ANALYST   | 7566 | 1981-12-03    | 3000.00 |         |     20
+  7369 | SMITH  | CLERK     | 7902 | 1980-12-17    |  800.00 |         |     20
+  7499 | ALLEN  | SALESMAN  | 7698 | 1981-02-20    | 1600.00 |  300.00 |     30
+  7521 | WARD   | SALESMAN  | 7698 | 1981-02-22    | 1250.00 |  500.00 |     30
+  7654 | MARTIN | SALESMAN  | 7698 | 1981-09-28    | 1250.00 | 1400.00 |     30
+  7844 | TURNER | SALESMAN  | 7698 | 1981-09-08    | 1500.00 |    0.00 |     30
+  7876 | ADAMS  | CLERK     | 7788 | 0001-05-23 BC | 1100.00 |         |     20
+  7900 | JAMES  | CLERK     | 7698 | 1981-12-03    |  950.00 |         |     30
+  7934 | MILLER | CLERK     | 7782 | 1982-01-23    | 1300.00 |         |     10
+
+
+cross join:
+===========
+select e.empno,e.ename,e.job,e.deptno,e.sal,d.dname,d.loc from emp e,dept d;
+
+
+equi join:
+=========
+ select e.empno,e.ename,e.job,e.deptno,e.sal,d.dname,d.loc from emp e,dept d where e.deptno=d.deptno;
+ 
+ 
+left outer:
+========
+select e.empno,e.ename,e.job,e.deptno,e.sal,d.dname,d.loc from emp e left outer join dept d on e.deptno=d.deptno;
+
+
+right outer:
+=============
+
+ select e.empno,e.ename,e.job,e.deptno,e.sal,d.dname,d.loc from emp e right outer join dept d on e.deptno=d.deptno;
+ 
+full outer join:
+================
+
+ select e.empno,e.ename,e.job,e.deptno,e.sal,d.dname,d.loc from emp e full outer join dept d on e.deptno=d.deptno;
+
+jdbc:
+-----
+
+java database connectivity
+
+
+sun---->jdbc ApI
+
+
+postgres "jar" file 
+
+                          jdbc API 
+   java<------------------------------------------------>database
+                            drivers: jdbc-odbc 
+							
+							
+							jdbc-odbc driver 
+							
+							network protocol driver 
+							
+							native api driver 
+							
+							thin driver  (java pure driver)
+ 
+ 
+ 
+ 
+steps:
+======
+0th: loading the jar files
+
+1.loading the driver class 
+
+
+
+2.create the connection 
+
+
+
+3. create statement 
+
+
+4.execute query 
+
+
+
+5.close the connection 
+
+
+select * from users where username='sathya' and password='sathya123';
+
+
+ex:
+---
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Test {
+public static void main(String[] args) throws ClassNotFoundException, SQLException {
+	
+	//1.loading the driver class 
+
+          Class.forName("org.postgresql.Driver");
+
+	//2.create the connection 
+
+          Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost/mobiles","postgres","postgres");
+
+	//3. create statement 
+
+               Statement stmt=conn.createStatement();
+	//4.execute query 
+   
+     //DDL=>execute();  //DML=>executeUpdate();  //DRL--->executeQuery();
+               
+                  //create table
+     // boolean result=stmt.execute("create table iaemp(eid int,ename varchar(10))");
+                
+               //insert record
+     //  int result=stmt.executeUpdate("insert into iaemp values(101,'rahul')");
+                   
+               //update the record
+      // int result=stmt.executeUpdate("update  iaemp set ename='yakshesh' where eid=101");
+               
+               //fetch the records
+             
+               ResultSet result=stmt.executeQuery("select * from iaemp");
+               
+               while(result.next()) {
+            	   System.out.println(result.getInt(1)+"  "+result.getString(2));
+               }
+                  
+                   
+	//5.close the connection 
+	
+      conn.close();
+      
+      System.out.println("fetcheg the values  ");
+	
+}
+}
+
+
+ex:
+----
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class PreparEx {
+
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter your username");
+		String uname=sc.next();
+		System.out.println("Enter your password");
+		String pwd=sc.next();
+		
+
+        Class.forName("org.postgresql.Driver");
+
+	 
+
+        Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost/mobiles","postgres","postgres");
+
+
+
+             PreparedStatement stmt=conn.prepareStatement("select * from users where username=? and password=?");
+             
+              stmt.setString(1, uname);
+              stmt.setString(2, pwd);
+              
+              ResultSet result=stmt.executeQuery();
+              
+              if(result.next()) {
+            	  System.out.println("login succuss");
+              }else
+              {
+            	  System.out.println("login denied....enter correct details");
+              }
+              
+              conn.close();
+	}
+}
+
+
+layered Architecture:
+=====================
+
+
+        Ui layer/controller layer   : user interface scanner
+		
+		
+		service layer/ bussiness layer : services ,logics
+		
+		
+		dao layer/repository layer : data can be interatcting
+		
+
+separate of concern
+
+
+
+mobile:
+----------
+package com.entity;
+
+public class mobile {
+	
+	private String empName;
+	private int empSal;
+	private String empAdd;
+	private String empEmail;
+	
+	//getters and setters
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public int getEmpSal() {
+		return empSal;
+	}
+	public void setEmpSal(int empSal) {
+		this.empSal = empSal;
+	}
+	public String getEmpAdd() {
+		return empAdd;
+	}
+	public void setEmpAdd(String empAdd) {
+		this.empAdd = empAdd;
+	}
+	public String getEmpEmail() {
+		return empEmail;
+	}
+	public void setEmpEmail(String empEmail) {
+		this.empEmail = empEmail;
+	}
+	
+public mobile() {
+	// TODO Auto-generated constructor stub
+}
+public mobile(String empName, int empSal, String empAdd, String empEmail) {
+	super();
+	this.empName = empName;
+	this.empSal = empSal;
+	this.empAdd = empAdd;
+	this.empEmail = empEmail;
+}
+@Override
+public String toString() {
+	return "mobile [empName=" + empName + ", empSal=" + empSal + ", empAdd=" + empAdd + ", empEmail=" + empEmail
+			+ "]";
+}
+
+
+	
+	
+	
+	
+	
+
+}
+
+service leyer:
+----------------
+package com.service;
+
+import java.util.Map.Entry;
+import java.util.Set;
+
+import com.entity.mobile;
+
+public interface mobileService {
+
+	int addmobile(mobile emp);
+
+	mobile updatemobile(int empId,mobile emp);
+	
+	void deletemobile(int empId);
+	
+	mobile getmobile(int empId);
+	
+	Set<Entry<Integer,mobile>> getAllmobiles();
+
+}
+
+-----
+impl:
+==
+
+package com.service;
+
+import java.util.Map.Entry;
+import java.util.Set;
+
+import com.dao.mobileDao;
+import com.dao.mobileDaoImpl;
+import com.entity.mobile;
+
+public class mobileServiceImpl implements mobileService {
+
+	mobileDao dao= new mobileDaoImpl(); //dao layer object
+	
+	@Override
+	public int addmobile(mobile emp) {
+		
+		return dao.addmobile(emp);
+	}
+
+	@Override
+	public mobile updatemobile(int empId, mobile emp) {
+		
+		return dao.updatemobile(empId, emp);
+	}
+
+	@Override
+	public void deletemobile(int empId) {
+		dao.deletemobile(empId);
+		
+	}
+
+	@Override
+	public mobile getmobile(int empId) {
+		
+		return dao.getmobile(empId);
+	}
+
+	@Override
+	public Set<Entry<Integer, mobile>> getAllmobiles() {
+		
+		return dao.getAllmobiles();
+	}
+
+	
+
+}
+
+
+
+
+dao layer:
+----------
+
+package com.dao;
+
+import java.util.Set;
+import java.util.Map.Entry;
+
+import com.entity.mobile;
+
+public interface mobileDao {
+	
+	int addmobile(mobile emp);
+
+	mobile updatemobile(int empId,mobile emp);
+	
+	void deletemobile(int empId);
+	
+	mobile getmobile(int empId);
+	
+	Set<Entry<Integer,mobile>> getAllmobiles();
+
+}
+
+
+impl:
+====
+package com.dao;
+
+import java.util.HashMap;
+import java.util.Map.Entry;
+import java.util.Set;
+
+import com.entity.mobile;
+
+public class mobileDaoImpl implements mobileDao {
+	
+	int empId=100;
+HashMap<Integer,mobile> sathya= new HashMap<Integer,mobile>(); //database
+	
+	@Override
+	public int addmobile(mobile emp) {
+		sathya.put(++empId, emp);
+		return empId;
+	}
+
+	@Override
+	public mobile updatemobile(int empId, mobile emp) {
+		sathya.put(empId, emp);
+		return sathya.get(empId);
+	}
+
+	@Override
+	public void deletemobile(int empId) {
+		
+		sathya.remove(empId);
+		
+	}
+
+	@Override
+	public mobile getmobile(int empId) {
+		
+		return sathya.get(empId);
+	}
+
+	@Override
+	public Set<Entry<Integer, mobile>> getAllmobiles() {
+		
+		Set<Entry<Integer,mobile>> result=sathya.entrySet();
+		return result;
+	}
+
+}
+
+
+
+
+clent:
+====
+package com.controller;
+
+import java.util.Iterator;
+import java.util.Map.Entry;
+import java.util.Scanner;
+import java.util.Set;
+
+import com.entity.mobile;
+import com.service.mobileService;
+import com.service.mobileServiceImpl;
+
+public class Client { // ui layer
+	public static void main(String[] args) {
+
+		mobileService service = new mobileServiceImpl(); // service layer object
+
+		while (true) {
+
+			System.out.println("mobile managament Application");
+			System.out.println("1.Add mobile");
+			System.out.println("2.update mobile");
+			System.out.println("3.delete mobile");
+			System.out.println("4.get mobile");
+			System.out.println("5.get All mobile");
+
+			Scanner sc = new Scanner(System.in);
+			int option = sc.nextInt();
+			switch (option) {
+
+			case 1:
+				System.out.println("Enter to Add mobile details");
+				System.out.println("Enter mobile Naame");
+				String empName = sc.next();
+				System.out.println("Enter mobile salary");
+				int empSal = sc.nextInt();
+				System.out.println("Enter mobile address");
+				String empAdd = sc.next();
+				System.out.println("Enter mobile email");
+				String empEmail = sc.next();
+
+				mobile emp = new mobile(empName, empSal, empAdd, empEmail);
+
+				int empId = service.addmobile(emp);
+
+				System.out.println("mobile added succsfully " + empId);
+
+				break;
+			case 2:
+				System.out.println("Enter to update mobile details");
+
+				System.out.println("enter mobile id to update");
+				int eid = sc.nextInt();
+				System.out.println("Enter mobile Naame");
+				String empName1 = sc.next();
+				System.out.println("Enter mobile salary");
+				int empSal1 = sc.nextInt();
+				System.out.println("Enter mobile address");
+				String empAdd1 = sc.next();
+				System.out.println("Enter mobile email");
+				String empEmail1 = sc.next();
+
+				mobile emp1 = new mobile(empName1, empSal1, empAdd1, empEmail1);
+
+				mobile updatedEmp = service.updatemobile(eid, emp1);
+				System.out.println("mobile updated succfully " + updatedEmp);
+
+				break;
+			case 3:
+				System.out.println("enter mobile id to delete");
+				int eid1 = sc.nextInt();
+				service.deletemobile(eid1);
+				System.out.println("mobile deleted succfully");
+
+				break;
+			case 4:
+				System.out.println("enter id to get mobile");
+				int eid2 = sc.nextInt();
+				System.out.println(service.getmobile(eid2));
+				break;
+			case 5:
+
+				Set<Entry<Integer, mobile>> mobiles = service.getAllmobiles();
+				Iterator<Entry<Integer, mobile>> itr = mobiles.iterator();
+
+				while (itr.hasNext()) {
+					Entry<Integer, mobile> finalResult = itr.next();
+					System.out.println(finalResult.getKey() + "  " + finalResult.getValue());
+				}
+
+				break;
+
+			default:
+				System.out.println("wrong selection");
+				break;
+
+			}
+
+		}
+
+	}
+}
+
+
+Regular Expressions:
+=====================
+if we want to represent the group of strings according to the pattern,then we should go for Re.
+
+advantages:
+=====
+To develope validation framework 
+to develope the pattern matching apllications
+
+
+two classes:
+==========
+Pattern:
+========
+
+compile method 
+
+Pattern p= pattern.compile("ab");  //
+
+Matcher class:
+=============
+it will match the given pattern 
+
+Matcher m=p.macther("ababacab");
+
+
+package com.ia.java8;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegDemoEx {
+	public static void main(String[] args) {
+		
+		int count=0;
+		Pattern p= Pattern.compile("ab");
+		
+		Matcher m=p.matcher("ababaababbababdgdabagddhabdjdkab");
+		
+		while(m.find()) {
+			count++;
+			System.out.println(m.start()+ " "+m.end()+" "+m.group());
+			//start->start index
+			//end()==> ending index+1
+			//
+		}
+		System.out.println("no of occurences:"+count);
+		
+	}
+
+}
+
+charecter classes:
+==================
+
+[abc] ===>either a or b or c 
+
+[^abc] ==>except a,b,c
+
+[a-z]   ===>any lower case alphabet symbol
+
+[A-Z] ==>any upeercase symbol 
+
+[0-9] ==>any digit from 0 t0 9
+
+[a-z A-Z] ==>any alphabet 
+
+[a-z A-Z 0-9]==>any alphanumeric symbols
+
+[^a-z A-Z 0-9]  =>except alpha numeric
+
+
+package com.ia.java8;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegEx1 {
+public static void main(String[] args) {
+	
+	
+	Pattern p=Pattern.compile("[abc]");
+	
+	Matcher m=p.matcher("a7b@z#9");
+	
+	while(m.find()) {
+		System.out.println(m.start());
+	}
+}
+}
+
+
+pedefined charecter classes:
+============================
+
+\s =>  \\s 
+
+
+
+\s ===>\\s-
+
+\S ===>any charecter except space 
+
+\d ==>any dogit 0 to 9
+
+\w -any alpha numeric 
+
+\W ===> any special charecters 
+
+.
+
+
+
+package com.ia.java8;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegEx1 {
+public static void main(String[] args) {
+	
+	
+	Pattern p=Pattern.compile("\\s");
+	
+	Matcher m=p.matcher("a7 b@ z#9");
+	
+	while(m.find()) {
+		System.out.println(m.start());
+	}
+}
+}
+
+
+ex:
+---
+package com.ia.java8;
+
+import java.util.regex.Pattern;
+
+public class RegeX2 {
+public static void main(String[] args) {
+	
+	
+	Pattern p= Pattern.compile("\\s");
+	
+	String[] s=p.split("s om asat hya prak ash");
+	
+	for(String s1:s) {
+		System.out.println(s1);
+	}
+}
+}
+
+ex:
+==
+package com.ia.java8;
+
+import java.util.regex.Pattern;
+
+public class RegeX2 {
+public static void main(String[] args) {
+	
+	
+	Pattern p= Pattern.compile("a");
+	
+	String[] s=p.split("soma sathya prakash");
+	
+	for(String s1:s) {
+		System.out.println(s1);
+	}
+}
+}
+
+
+
+[7-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
+
+[789][0-9]{9}
+
+ex:
+==
+package com.ia.java8;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegEx3 {
+public static void main(String[] args) {
+	
+	
+	Pattern p= Pattern.compile("(0|91)?[7-9][0-9]{9}"); 
+	
+	Matcher m=p.matcher(args[0]);
+	
+	if(m.find() && m.group().equals(args[0])) {
+		
+		System.out.println("valid mobile number");
+	}
+	else
+	{
+		System.out.println("invalid number");
+	}
+}
+}
+
+
+Date and Time:
+=============
+
+
+1.7 v==>date,calender,timestamp-->uptothemark
+
+1.8 v==>joda time API : joda.org 
+
+
+ex:
+===
+package com.ia.java8;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+public class DateEx {
+public static void main(String[] args) {
+	
+	LocalDate date= LocalDate.now();
+	
+	System.out.println("todays date:"+date);
+	
+	
+	LocalTime time= LocalTime.now();
+	
+	System.out.println("curent time :"+time);
+}
+}
+
+x:
+package com.ia.java8;
+
+import java.time.LocalDate;
+
+public class DateEx1 {
+public static void main(String[] args) {
+	
+	
+	LocalDate date=LocalDate.now();
+	
+	System.out.println(date);
+	
+	int dd=date.getDayOfMonth();
+	int mm=date.getMonthValue();
+	int yy=date.getYear();
+	
+	System.out.println(dd+ " "+mm+" "+yy);
+	System.out.printf("%d-%d-%d",dd,mm,yy);
+	
+}
+}
+
+ex:
+--
+package com.ia.java8;
+
+import java.time.LocalTime;
+
+public class TimeEx {
+public static void main(String[] args) {
+	
+	
+	LocalTime time=LocalTime.now();
+	
+	int h=time.getHour();
+	int m=time.getMinute();
+   int s=time.getSecond();
+	int ms=time.getNano();
+	
+	System.out.println(h+" "+ m+"  "+s +"  "+ms);
+}
+}
+ex:
+==
+package com.ia.java8;
+
+import java.time.LocalDateTime;
+
+public class DateTimeEX {
+public static void main(String[] args) {
+	
+	
+	LocalDateTime dt= LocalDateTime.now();
+	System.out.println(dt);
+}
+}
+
+ex:
+==
+package com.ia.java8;
+
+import java.time.LocalDateTime;
+
+public class DateTimeEX1 {
+public static void main(String[] args) {
+	
+	
+	LocalDateTime dt= LocalDateTime.of(1994, 07, 04, 12, 45, 25);
+	System.out.println(dt);
+	
+	System.out.println("after six months:"+dt.plusMonths(6));
+	System.out.println("before 6 mnths :"+dt.minusMonths(6));
+	
+	
+}
+}
+
+ex:
+===
+package com.ia.java8;
+
+import java.time.LocalDate;
+import java.time.Period;
+
+public class PeriodEx {
+public static void main(String[] args) {
+	
+	LocalDate bdy= LocalDate.of(1994, 06, 04);
+	
+	LocalDate tdy=LocalDate.now();
+	
+	Period p=Period.between(bdy, tdy);
+	
+	System.out.printf("AgE IS %d years %d months %d days ",p.getYears(),p.getMonths(),p.getDays());
+}
+}
+
+ex:
+====
+package com.ia.java8;
+
+import java.time.Year;
+import java.util.Scanner;
+
+public class LeapEx {
+public static void main(String[] args) {
+	
+	Scanner sc= new Scanner(System.in);
+	
+	System.out.println("Enter year value");
+	int n= sc.nextInt(); //1996
+	
+	Year y=Year.of(n);
+	
+	if(y.isLeap()) {
+		System.out.printf("%d year is leap year ",n);
+	}
+	else {
+		System.out.printf("%d year is not leap year ",n);
+	}
+	
+}
+}
+
+ex:
+==	
+package com.ia.java8;
+
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
+
+public class ZoneEx {
+
+	public static void main(String[] args) {
+		
+		ZoneId zone= ZoneId.systemDefault();
+		System.out.println(zone);
+		
+		ZoneId la=ZoneId.of("Asia/Singapore");
+		ZonedDateTime dt= ZonedDateTime.now(la);
+		System.out.println(dt);
+	}
+}
+
+
+
+DisAdvantage of jdbc:
+=================
+1.without exceptions we canot write the program 
+2.bioler plate code mandetory to write 
+3.hitting the databse is more reduce performance 
+4.we need to learn as client requiremnt databases 
+5.we need to write querys
+
+
+JPA,Hibernate,ORM:
+==================
+jpa: java persistence API  , it also a framework 
+hibernate; is alaso a frame work 
+ORM: object relational Mapping
+
+select * from empl;===> hit the database
+
+
+jpa is the specification, hibernate is the implementation 
+
+
+
+select * from empl; hit database
+cache:stored 
+
+hibernate: it will write the query for you.
+hibernate will cretae a table for us
+
+
+
+hibernate is ORM Tool: object relational mapping
+
+hibernate,toplink,eclipselink....
+
+
+jpa:1 hr 
+
+
+
+hibernate-> clent toplink clent eclispse : 1day
+
+
+jpa project:
+============
+Entity:
+======
+
+
+
+  @Entity //inside the database 
+  @Table(name="sathya")
+1.class mobile{
+
+@Id  // primary key column
+@Coulmn(name="eid" length=16)
+@GeneratedValue
+int empid;
+@Coulmn(name="ename" length=16)
+String empname;
+
+
+}
+
+
+
+
+2. Test /Clent:
+====
+
+jpa:
+===
+
+EntityManagerFactory factory =Persistence.CreateEntityManagERfACTORY("SATHYA");
+
+ EntitytManager entity=factoty.createEntityManager();
+ 
+ //persist()==>save or insert , merge()==>to update , remove()==>to delete find()==>to fetch 
+ 
+ 
+ 
+
+META-INF: FOLDER
+=================
+3.Persistence.xml : markup language
+   
+  databasse information: postgresql 
+  hibernate properties 
+
+
+
+
+
+
+<persistence
+xsd>   
+
+     <persistence-unit name="sathya">
+	    //dtaabse prperties: url,username,password,Driver
+		//hibernate properties:postgresdialaect,show_sql(true),hbm2ddl.auto(update)
+	 
+	 </persistence-unit>
+
+
+</persistence>
+
+
+
+mobile:
+=========
+package com.ia.mobilecrud;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="emp")
+public class mobile {
+	@Id
+	@Column(name="emmployeeid")
+	private int empid;
+	private String empname;
+	private int empsal;
+	private String empAdd;
+	
+	
+	public int getEmpid() {
+		return empid;
+	}
+	public void setEmpid(int empid) {
+		this.empid = empid;
+	}
+	public String getEmpname() {
+		return empname;
+	}
+	public void setEmpname(String empname) {
+		this.empname = empname;
+	}
+	public int getEmpsal() {
+		return empsal;
+	}
+	public void setEmpsal(int empsal) {
+		this.empsal = empsal;
+	}
+	public String getEmpAdd() {
+		return empAdd;
+	}
+	public void setEmpAdd(String empAdd) {
+		this.empAdd = empAdd;
+	}
+	
+	public mobile() {
+		// TODO Auto-generated constructor stub
+	}
+	public mobile(int empid, String empname, int empsal, String empAdd) {
+		super();
+		this.empid = empid;
+		this.empname = empname;
+		this.empsal = empsal;
+		this.empAdd = empAdd;
+	}
+	@Override
+	public String toString() {
+		return "mobile [empid=" + empid + ", empname=" + empname + ", empsal=" + empsal + ", empAdd=" + empAdd + "]";
+	}
+	
+
+}
+
+
+Test:
+======
+package com.ia.mobilecrud;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		EntityManagerFactory factory=Persistence.createEntityManagerFactory("sathya");
+		
+		EntityManager entity=factory.createEntityManager(); 
+		
+		//persist()-->save or insert, merge()-->update, remove()-->delte, find()==>selct fetch
+		
+		mobile emp= new mobile(123, "soma", 1000, "hyd");
+		
+		entity.getTransaction().begin();
+		
+		entity.persist(emp);
+		
+		//mobile emp=entity.find(mobile.class, 123);
+		//System.out.println(emp); 
+		
+//		emp.setEmpAdd("maharastra");
+//		emp.setEmpname("ragu");
+//		emp.setEmpsal(780000);
+		
+		//entity.merge(emp);
+		//entity.remove(emp);
+		
+		
+		entity.getTransaction().commit();
+		
+	}
+
+}
+
+Persistence:
+==============
+
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+                      http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+  version="2.0">
+  
+	<persistence-unit name="sathya" transaction-type="RESOURCE_LOCAL">
+	
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<class>com.ia.mobilecrud.mobile</class>
+
+		<properties>
+		<!-- database properties -->
+			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost/mobiles" />
+			<property name="javax.persistence.jdbc.user" value="postgres" />
+			<property name="javax.persistence.jdbc.password" value="postgres" />
+			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
+			
+			<!-- hibernate properties -->
+			<property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
+			<property name="hibernate.hbm2ddl.auto" value="create"/> <!-- create/update  -->
+			<property name="hibernate.show_sql" value="true"/>
+		</properties>
+		
+	</persistence-unit>
+	
+</persistence>
+
+
+jpql:
+=====
+
+java persistence query language
+
+
+postgre:
+========
+select eid,ename from Avatar where esal>10000;
+
+jpql:(clause)
+====   
+
+persistence:
+=====
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+                      http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+  version="2.0">
+  
+	<persistence-unit name="jpqlex" transaction-type="RESOURCE_LOCAL">
+	
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<class>com.kt.jpqlex.mobile</class>
+		
+		<properties>
+		<!-- database properties -->
+		
+			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost/mobiles" />
+			<property name="javax.persistence.jdbc.user" value="postgres" />
+			<property name="javax.persistence.jdbc.password" value="postgres" />
+			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
+			<!-- hibernate properties -->
+			<property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
+			<property name="hibernate.hbm2ddl.auto" value="update"/><!-- create/update  -->
+			<property name="hibernate.show_sql" value="true"/>
+		</properties>
+		
+	</persistence-unit>
+	
+</persistence>
+
+
+
+
+mobile:
+=======
+
+	package com.kt.jpqlex;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="mobilejpql")
+public class mobile {
+    @Id
+	private int empId;
+    @Column(length=15)
+	private String empName;
+	private int empSal;
+	  @Column(length=15)
+	private String empAdd;
+	public int getEmpId() {
+		return empId;
+	}
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public int getEmpSal() {
+		return empSal;
+	}
+	public void setEmpSal(int empSal) {
+		this.empSal = empSal;
+	}
+	public String getEmpAdd() {
+		return empAdd;
+	}
+	public void setEmpAdd(String empAdd) {
+		this.empAdd = empAdd;
+	}
+	
+	public mobile() {
+		// TODO Auto-generated constructor stub
+	}
+	public mobile(int empId, String empName, int empSal, String empAdd) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.empSal = empSal;
+		this.empAdd = empAdd;
+	}
+	@Override
+	public String toString() {
+		return "mobile [empId=" + empId + ", empName=" + empName + ", empSal=" + empSal + ", empAdd=" + empAdd + "]";
+	}
+	
+	
+}
+
+
+Test:
+=======
+
+package com.kt.jpqlex;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+import javax.persistence.Query;
+import javax.persistence.TypedQuery;
+
+
+
+public class Client {
+public static void main(String[] args) {
+	
+	EntityManagerFactory factory=Persistence.createEntityManagerFactory("jpqlex");
+	
+	EntityManager entity= factory.createEntityManager();
+	
+	entity.getTransaction().begin();
+	
+//inserted
+//	
+//	mobile e= new mobile(100, "dIVYA", 10000, "KNL");
+//	mobile e1= new mobile(101, "TARUN", 12000, "KURNOOL");
+//	mobile e2= new mobile(102, "SATHYA", 13000, "HYD");
+//	mobile e3= new mobile(103, "MAHESH", 14000, "KMPL");
+////	
+//	entity.persist(e);
+//	entity.persist(e1);
+//	entity.persist(e2);
+//	entity.persist(e3);
+	
+	//createQuery()--fetch, executeUpdate()--->to update,  executeUpdate()--->to delete
+
+//fetch   select * from mobilejpql ;
+	
+	
+//	TypedQuery<mobile> tq=entity.createQuery("select e from mobile e", mobile.class);
+//	
+//	List<mobile> li=tq.getResultList();
+//			
+//	for(mobile s:li) 
+//	{
+//		
+//		System.out.println(s.getEmpId());
+//		System.out.println(s.getEmpName());
+//		System.out.println(s.getEmpSal());
+//		
+//	}
+//	
+
+//update	
+	
+//      Query result=entity.createQuery("update mobile set empSal= empSal+50000 where empSal>10000");
+//          
+//              result.executeUpdate();
+      
+      
+//delete
+//         
+	              Query result = entity.createQuery("delete from  mobile where empSal>10000");
+                         result.executeUpdate();
+              
+
+//select
+	
+//	           Query result=entity.createQuery("select MAX(e.empSal) FROM mobile e");
+//	           
+//	                   int maxsal= (int) result.getSingleResult();
+//	                   
+//	                   System.out.println(maxsal);
+                   
+	                   
+	                   
+	                   
+	entity.getTransaction().commit();
+	
+	entity.close();
+	factory.close();
+	System.out.println("inserted");
+	
+	
+}
+
+}
+
+
+
+
+
+Spring :   2003  rod jhonson  : Interface21===>21 members  : 5x
+========
+
+Spring is a framwork ==> **it is frameworks of framework
+
+spring is used to create  light weight and loosly coupled and non invasive framework.
+
+
+      light weight/heavy weight 
+	  
+	  loosly coupled/tightly coupled 
+	  non invasive/ invasive
+
+
+ frameworks: spring,hibernate,ejb,struts.....
+
+ invasive :
+ 
+ will force to the programmer to implement predefined API
+
+struts,ejb
+
+
+
+non-invasive:
+
+will not force to the programmer to implement predefined API
+ 
+spring,hibernate
+
+
+
+heavy weight:
+=============
+
+servlets: ===>web application:
+
+
+3 ways:
+---
+
+1. class implemnts Servlet(interface)
+
+2. by extending GenericServlet(abstract classs)
+
+3. by extending HttpServlet(Abstract class) 11
+
+
+Class Login implemnts Servlet(5){
+
+//implentaion of servlet methods
+} ==>100 class==>100*5=500========> application heavy
+
+ 
+ 2.class Login extends GenericServlet(5){
+ 
+ //heavy weight
+ }
+ 
+ 3. class Login extends HttpServlet(5+7){
+ //12 
+ 
+ 
+ }100 child classes===>100*12==>1200 ===>application is heavy weight
+
+
+tightly coupled:
+================
+
+
+
+class mobile{
+
+    private int empid;
+	private String empname;
+	
+	
+	//setters and getters
+	
+	void display(){
+	Syso(empid+" "+empname);
+	
+	}
+
+}
+
+
+class Test{
+
+main{
+
+                             //spring: i will give you the object //mobile emp= new mobile();
+
+emp.display();
+
+}
+
+}
+
+
+Ioc: inversion of control:(object life cycle)=>container 
+
+spring core/ioc/depency injection
+
+Spring CONTAINER:(till creation and untill distruction)
+
+1. BeanFactory     lazy-->small applications
+
+2.Application Context : egar -->large applications
+
+
+
+xml:
+===
+springConfig.xml
+
+
+
+<beans schema>
+
+    <bean name="mobile" id="raghu">     <!-  mobile raghu= new mobile();->
+	
+	</bean>
+	
+	
+	  
+	
+
+
+</beans>
+
+
+dependency injection:
+==================
+1.setter injection ===>
+
+<property name="empid" value="100"> </property>
+<property name="empname" value="sathya"> </property>
+<property name="empsal" value="1000"> </property>
+<property name="empadd" value="hyd"> </property>
+
+2.construtor-arg ====><costrctor-arg> </costrctor-arg>
+
+
+Test:
+======
+package com.ia.springcore;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+
+public class Test {
+public static void main(String[] args) {
+	
+	
+	//mobile emp= new mobile(123, "bansal", 78203, "jaipur");
+	
+	Resource resource = new ClassPathResource("springConfig.xml");
+	
+	
+	BeanFactory factory= new XmlBeanFactory(resource);
+	
+	  mobile emp =(mobile) factory.getBean("sleeping");
+	  
+	  System.out.println(emp);
+	
+	
+}
+}
+
+mobile:
+=========
+package com.ia.springcore;
+
+public class mobile { //beans class or POJO CLASS 
+	
+	private int empid;
+	private String empname;
+	private int empsal;
+	private String empadd;
+	
+	
+	public int getEmpid() {
+		return empid;
+	}
+	public void setEmpid(int empid) { //100
+		this.empid = empid;
+	}
+	public String getEmpname() {
+		return empname;
+	}
+	public void setEmpname(String empname) {//sathya
+		this.empname = empname;
+	}
+	public int getEmpsal() {
+		return empsal;
+	}
+	public void setEmpsal(int empsal) { //1000
+		this.empsal = empsal;
+	}
+	public String getEmpadd() {
+		return empadd;
+	}
+	public void setEmpadd(String empadd) { //hyd
+		this.empadd = empadd;
+	}
+	
+	
+	public mobile() {
+		// TODO Auto-generated constructor stub
+	}
+	public mobile(int empid, String empname, int empsal, String empadd) {
+		super();
+		this.empid = empid;
+		this.empname = empname;
+		this.empsal = empsal;
+		this.empadd = empadd;
+	}
+	@Override
+	public String toString() {
+		return "mobile [empid=" + empid + ", empname=" + empname + ", empsal=" + empsal + ", empadd=" + empadd + "]";
+	}
+	
+	
+}
+
+SpringConfig.xml:
+===================
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<context:annotation-config></context:annotation-config>
+
+<bean class="com.ia.springcore.mobile" id="sleeping">    <!--mobile sleeping=new mobile();  -->
+
+<property name="empid" value="100"> </property>
+<property name="empname" value="sathya"> </property>
+<property name="empsal" value="1000"> </property>
+<property name="empadd" value="hyd"> </property>
+</bean>
+
+
+</beans>
+
+
+
+Autowiring:
+============
+it wire wire the objects automatically
+
+setter injection: autowire: byname,bytype
+
+
+constructor inject: construtor
+
+									
+mobile:
+=========
+package com.ia.springcore;
+
+public class mobile { //beans class or POJO CLASS 
+	
+	private int empid;
+	private String empname;
+	private int empsal;
+	       Address address; //has -a dependent
+	      
+	
+	
+			public int getEmpid() {
+				return empid;
+			}
+			public void setEmpid(int empid) {
+				this.empid = empid;
+			}
+			public String getEmpname() {
+				return empname;
+			}
+			public void setEmpname(String empname) {
+				this.empname = empname;
+			}
+			public int getEmpsal() {
+				return empsal;
+			}
+			public void setEmpsal(int empsal) {
+				this.empsal = empsal;
+			}
+			public Address getAddress() {
+				return address;
+			}
+			public void setAddress(Address address) {
+				this.address = address;
+			}
+	
+	public mobile() {
+		// TODO Auto-generated constructor stub
+	}
+	public mobile(int empid, String empname, int empsal, Address address) {
+		super();
+		this.empid = empid;
+		this.empname = empname;
+		this.empsal = empsal;
+		this.address = address;
+	}
+	@Override
+	public String toString() {
+		return "mobile [empid=" + empid + ", empname=" + empname + ", empsal=" + empsal + ", address=" + address
+				+ "]";
+	}
+	
+	
+	
+}
+
+
+Test:
+=====
+
+package com.ia.springcore;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+
+public class Test {
+public static void main(String[] args) {
+	
+	
+	//mobile emp= new mobile(123, "bansal", 78203, "jaipur");
+	
+	Resource resource = new ClassPathResource("springConfig.xml");
+	
+	BeanFactory factory= new XmlBeanFactory(resource);
+	
+	  mobile emp =(mobile) factory.getBean("sleeping");
+	  
+	  System.out.println(emp);
+	
+	
+}
+}
+
+
+Springconfig.xml:
+================
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<context:annotation-config></context:annotation-config>
+
+<bean class="com.ia.springcore.mobile" id="sleeping" autowire="byName">    <!--mobile sleeping=new mobile();  -->
+
+<property name="empid" value="100"> </property>
+<property name="empname" value="sathya"> </property>
+<property name="empsal" value="1000"> </property>
+<!-- <property name="Address" ref="add"> </property> -->
+
+
+</bean>
+
+<bean class="com.ia.springcore.Address" id="vedika">    <!--Address add=new Address();  -->
+
+<property name="honum" value="4512"> </property>
+<property name="colony" value="saraswathi nagar,lb nagar"> </property>
+<property name="dstrct" value="hyderabad"> </property>
+<property name="state" value="telangana"> </property>
+
+</bean>
+
+
+
+</beans>
+
+
+
+Address:
+=======
+package com.ia.springcore;
+
+public class Address {
+	
+	private int honum;
+	private String colony;
+	private String dstrct;
+	private String state;
+	public int getHonum() {
+		return honum;
+	}
+	public void setHonum(int honum) {
+		this.honum = honum;
+	}
+	public String getColony() {
+		return colony;
+	}
+	public void setColony(String colony) {
+		this.colony = colony;
+	}
+	public String getDstrct() {
+		return dstrct;
+	}
+	public void setDstrct(String dstrct) {
+		this.dstrct = dstrct;
+	}
+	public String getState() {
+		return state;
+	}
+	public void setState(String state) {
+		this.state = state;
+	}
+	
+	public Address() {
+		// TODO Auto-generated constructor stub
+	}
+	public Address(int honum, String colony, String dstrct, String state) {
+		super();
+		this.honum = honum;
+		this.colony = colony;
+		this.dstrct = dstrct;
+		this.state = state;
+	}
+	@Override
+	public String toString() {
+		return "Address [honum=" + honum + ", colony=" + colony + ", dstrct=" + dstrct + ", state=" + state + "]";
+	}
+	
+
+}
+
+Gradle:
+=======
+maven:
+=======
+project build tool :project structire
+
+
+postgresql dependency:
+
+spring core depency :
+
+
+springContext dependency:
+
+
+
+
+@Component: it will create the object
+
+singleton: refrence should be same
+
+prototype: reference shpuld be differen
+
+@Service      @Repository
+service         dao 
+
+
+
+By USING MAVEN:
+==========
+package SpringCoreAutowireAtc.com.springcore;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+
+@Configuration
+@ComponentScan("SpringCoreAutowireAtc.com.springcore")
+public class Test {
+public static void main(String[] args) {
+	
+	
+	//mobile emp= new mobile(123, "bansal", 78203, "jaipur");
+	
+//	Resource resource = new ClassPathResource("springConfig.xml");
+//	
+//	BeanFactory factory= new XmlBeanFactory(resource);
+	
+	//ApplicationContext factory= new ClassPathXmlApplicationContext("springConfig.xml");
+	
+	ApplicationContext factory= new AnnotationConfigApplicationContext(Test.class);
+	
+	  
+//	  emp.setEmpid(124);
+//	  emp.setEmpname("kushi");
+//	  
+//	
+//	  Address add =(Address) factory.getBean("address");
+//	  add.setColony("jaipur");
+//	  emp.setAddress(add);
+  
+	mobile emp =(mobile) factory.getBean("mobile");
+	  System.out.println(emp); //beanscope : singletone, prototype
+	
+	  mobile emp1 =(mobile) factory.getBean("mobile");
+	  System.out.println(emp1);
+	  
+}
+}
+
+
+
+package SpringCoreAutowireAtc.com.springcore;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Address {
+	
+	private int honum;
+	private String colony;
+	private String dstrct;
+	private String state;
+	
+	public int getHonum() {
+		return honum;
+	}
+	public void setHonum(int honum) {
+		this.honum = honum;
+	}
+	public String getColony() {
+		return colony;
+	}
+	public void setColony(String colony) {
+		this.colony = colony;
+	}
+	public String getDstrct() {
+		return dstrct;
+	}
+	public void setDstrct(String dstrct) {
+		this.dstrct = dstrct;
+	}
+	public String getState() {
+		return state;
+	}
+	public void setState(String state) {
+		this.state = state;
+	}
+	
+	public Address() {
+		// TODO Auto-generated constructor stub
+	}
+	public Address(int honum, String colony, String dstrct, String state) {
+		super();
+		this.honum = honum;
+		this.colony = colony;
+		this.dstrct = dstrct;
+		this.state = state;
+	}
+	@Override
+	public String toString() {
+		return "Address [honum=" + honum + ", colony=" + colony + ", dstrct=" + dstrct + ", state=" + state + "]";
+	}
+	
+
+}
+
+
+package SpringCoreAutowireAtc.com.springcore;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+
+public class AppConfig { 
+	
+	
+//	@Bean("sathya")
+//	public mobile getmobile() {
+//		mobile emp= new mobile();
+//		
+//		emp.setEmpid(125);
+//		emp.setEmpname("soma");
+//		
+//		return emp;
+//	}
+//	
+//	@Bean("add")
+//	public Address getAddress() {
+//		Address add= new Address();
+//		
+//		add.setColony("sarawsthi nagar colony");
+//		
+//		return add;
+//	}
+
+}
+
+
+package SpringCoreAutowireAtc.com.springcore;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+@Component
+@Scope("prototype")
+public class mobile { //beans class or POJO CLASS 
+	
+	private int empid;
+	private String empname;
+	private int empsal;
+	
+	       //@Autowired   //by type
+	       Address address; //has -a dependent object //has a raltion
+	      
+	       //dependent object will injecting(created) automatically
+	     
+			public int getEmpid() {
+				return empid;
+			}
+			public void setEmpid(int empid) {
+				this.empid = empid;
+			}
+			public String getEmpname() {
+				return empname;
+			}
+			public void setEmpname(String empname) {
+				this.empname = empname;
+			}
+			public int getEmpsal() {
+				return empsal;
+			}
+			public void setEmpsal(int empsal) {
+				this.empsal = empsal;
+			}
+			public Address getAddress() {
+				return address;
+			}
+			@Autowired  //byName
+			public void setAddress(Address address) {
+				this.address = address;
+			}
+	
+	public mobile() {
+		// TODO Auto-generated constructor stub
+	}
+	//@Autowired
+	public mobile(int empid, String empname, int empsal, Address address) {
+		super();
+		this.empid = empid;
+		this.empname = empname;
+		this.empsal = empsal;
+		this.address = address;
+	}
+//	@Override
+//	public String toString() {
+//		return "mobile [empid=" + empid + ", empname=" + empname + ", empsal=" + empsal + ", address=" + address
+//				+ "]";
+//	}
+//	
+	
+	
+}
+
+
+
+
+package SpringCoreAutowireAtc.com.springcore;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+
+@Configuration
+@ComponentScan("SpringCoreAutowireAtc.com.springcore")
+public class Test {
+public static void main(String[] args) {
+	
+	
+	//mobile emp= new mobile(123, "bansal", 78203, "jaipur");
+	
+//	Resource resource = new ClassPathResource("springConfig.xml");
+//	
+//	BeanFactory factory= new XmlBeanFactory(resource);
+	
+	//ApplicationContext factory= new ClassPathXmlApplicationContext("springConfig.xml");
+	
+	ApplicationContext factory= new AnnotationConfigApplicationContext(Test.class);
+	
+	  
+//	  emp.setEmpid(124);
+//	  emp.setEmpname("kushi");
+//	  
+//	
+//	  Address add =(Address) factory.getBean("address");
+//	  add.setColony("jaipur");
+//	  emp.setAddress(add);
+  
+	mobile emp =(mobile) factory.getBean("mobile");
+	  System.out.println(emp); //beanscope : singletone, prototype
+	
+	  mobile emp1 =(mobile) factory.getBean("mobile");
+	  System.out.println(emp1);
+	  
+}
+}
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<context:annotation-config></context:annotation-config>
+
+<!-- <bean class="SpringCoreAutowireAtc.com.springcore.mobile" id="sleeping" >   autowire="byName" mobile sleeping=new mobile(); 
+
+<property name="empid" value="100"> </property>
+<property name="empname" value="sathya"> </property>
+<property name="empsal" value="1000"> </property>
+<property name="Address" ref="add"> </property>
+
+</bean> @Bean
+
+<bean class="SpringCoreAutowireAtc.com.springcore.Address" id="vedika">    Address add=new Address(); 
+
+<property name="honum" value="4512"> </property>
+<property name="colony" value="saraswathi nagar,lb nagar"> </property>
+<property name="dstrct" value="hyderabad"> </property>
+<property name="state" value="telangana"> </property>
+
+</bean>
+ -->
+
+
+</beans>
+
+
+
+springjpa:
+===========
+
+jpa layer
+
+
+
+
+
+create project:
+==============
+com.entity 
+    mobile
+eom.service
+     interfaceservice 
+	     methods(service )
+	 interfaceimpl implemnts mobileserice
+	    
+		dao object 
+		impl construtor 
+		
+		dao.add
+		dao,ra
+		
+		
+com.dao 
+   daointerface
+   daiaimpl
+   
+     entiyr
+	 enrr
+    
+com.ui
+maina:
+sevice
+
+
+
+
+
+@Entity : create the table 
+@Id : primery key
+@Table : our own table name 
+@Column : our own data column names
+@GeneratedValue=(): autoamtiacally values are genetingn
+@Autowire : it will inject dependt object automatically
+@Configuration : class will act as a configution class 
+@Component :it will create the object of that class 
+@ComponentScan : base package name where we have classes informmation
+@Trasancational : trasaction 
+@PersistenceContext: create the object of database 
+@EnableTransactionManagement: enables the transaction
+@Service : it will create the object of Service class 
+@Repository : it will create object t=of the repository class
+@Scope : singleton, prototype 
+@Bean: to create the object 
+
+
+https://drive.google.com/file/d/1MSFMcM2GSrRTlywQrSFiSXBLjcAmA6Yt/view?usp=sharing  (11th morning frdy)
+
+
+https://drive.google.com/file/d/1HavMKpbWkkmA_t7vRGuGZzCAQiIXfUAs/view?usp=sharing  (14th mndy)
+
+
+
+
+
+
+https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-enterprise-java-developers
+
+
+
+
+Springmvc:
+=========
+
+model view control 
+
+it is a framework it can follow mvc design patterns 
+
+it is used to develop web applications 
+
+
+client--->                                   loginservlt   
+                   front controller          logout servlt  
+
+
+web apllication:
+apache tomcat,glassfish,
+
+
+
+SpringMvc: DispatcherServlet ()
+
+
+12 +34  = 
+	
+case Study:
+===========
+PizzaHouse Store Management Application (JPA):
+===============================================
+
+Use LayerdArchiteture Format:
+============================
+1.create a package with com.pizzamanagement.model
+   1.1 create a model class (Pizza)
+   
+    properties of Pizza Class:
+	========================
+	private int pizzaNo;
+	private String pizzaType;
+	private int pizzaPrice;
+	private String DeliveryAdd;
+	
+	1.1.1=> Add one default constructor 
+	1.1.2=> Add one Parameterized constructor with given properties
+	1.1.3=> Add toString() method with class Properties
+
+
+2.create a package with com.pizzamanagement.service 
+
+   2.1=>create a Interface PizzaService
+         
+		 Add Services pizzaHouseStore
+		 ============================
+		 *addPizza
+		 *updatePizaa
+		 *deletePizza
+		 *findPizzaByNo
+		 
+	2.2=> create a class PizzaServiceImpl
+	     
+		   *provide implemntation of services added in PizzaSevice Interface
+		             *create Dao "OBJECT" TO Accsess the data 
+					 * create a default serviceimpl constructor 
+					         initialize the dao object in above constructor 
+					 
+          		 
+3. create a package with com.pizzamanagement.Dao
+    
+	3.1=>create a Interface PizzaDao
+	      
+		  Accsess pizza Data from Service pizza
+		 =======================================
+		*getPizzaByNo
+		*addPizza
+		 *updatePizaa
+		 *deletePizza
+		 
+	 3.2=> create a class PizzaDaoImpl
+	     
+		   *provide implemntation of services added in PizzaDao Interface 
+	                *create EntityManager "OBJECT" TO Accsess the data from database
+					 * create a default serviceDao constructor 
+					         initialize the entity object in above constructor	   
+  	
+4. create a package with com.pizzamanagement.Ui
+
+     4.1=> create a Test class with main method 
+      4.2==> create object of PizzaService 
+      4.3==>Do all crud operations to call the services 
+
+5. META-INF
+      *Create a xml file name is persistence.xml 
+           *add the database properties 
+           *add the hibernate properties 		   
+
+ 
+ 
+
+java design patterns:
+====================   (oops)
+
+1994     
+
+
+Gang of four:  four memebers authors
+------------
+
+1.design patterns--Elements of essential of reuseble 'oo' software
+                  it is represents the concepts of design patterns software development 
+				  
+		1. program to an interface not an implemntation 
+		2. favour object composition over inheritance 
+
+common platform:
+best practices:
+
+types of design patterns:
+--------------------
+
+23 design pattersns
+
+
+categorized into 3 ways 
+
+
+
+1. creational design pattern: 
+   way to create the object 
+     hiding creation logic and cretaing object by using instance 
+	 will ive more flexibility
+2.structureal design pattern:
+    class and object composistion
+	inhertiance is used t to compose interfaces 
+	
+   
+3.behaviour design patterns 
+   communication btwn the objects
+
+creational design pattern: :
+==========
+Factory design pattern 
+Abstract factory design pattern 
+singletone design patterns
+builder design patterns 
+prototype dsign patterns
+
+
+shape obj= ShapeFactory.getSahape("rectangle");
+
+  obj.draw();
+
+shape obj= ShapeFactory.getSahape("circle");
+
+  obj.draw();  //circle
+
+shape obj= ShapeFactory.getSahape("square");
+
+  obj.draw();  //square
+
+
+
+
+
+
+public abstract class AbstractFactory{
+   
+   abstract Shape getShape(string shapeType);
+}
+
+
+
+public interface Packing{
+
+
+public String pack();
+}
+
+public class Wrapper implements Packing
+{
+
+public String pack(){
+
+return "wrapper";
+
+}
+}
+
+public class Bottle implements Packing
+{
+
+public String pack(){
+
+return "Bottle";
+
+}
+
+return new Wrapper();
+
+Structural design patterns:
+-------------------
+Adpter pattern :
+=============
+
+
+Bridgr pattern 
+Filter pattern 
+Composite pattern
+Decorator pattern
+Flyweight pattern 
+
+
+
+public interface Shape{
+
+
+void draw();
+
+}
+
+public class Rectangle implemnts Shape{
+
+public void draw(){
+Syso("shape is rectangle");
+
+}
+}
+public class Circle implemnts Shape{
+
+public void draw(){
+Syso("shape is circle");
+
+}
+}
+
+
+public abstract class ShapeDecorator implemnts Shape{
+
+Shape decoratorshape;
+
+public shapeDecorator(Shape decoratorshape)
+{
+
+ this.decoratorshape=decoratorshape;
+}
+
+
+public void draw(){
+decoratorshape.draw();
+
+}
+}
+ 
+behaviour patterns:  ciimm
+----------------
+command patten:
+==============
+interpreter pattern:
+=========
+it is provides a way of ealueate language grammer aor expession.
+sql parsing, symbol processing engines 
+iterator pattern:
+============
+mediator pattern:
+memento:
+observer pattern:
+============
+state pattern:
+
+
+
+
+SELECT location, Count(total_cases ) FROM owed-covid-data WHERE new_cases> 1000 GROUP BY location ORDER BY new_cases; ---> objective - String Manipulation
+
+
+
+owed-covid-data
+
+
+location | counting |  no vaccine | complted | incomplte | new cases
+
+benglore    780         520            12        356         96
+telangana    980         220            102        756         1906
+anadrapradesh 7180         620       132        866         196
+maharastra    3780         420            612        556         1396
+
+selct location,count from info.csv WHERE new_cases> 1000;
+
+maharastra    3780    1396
+telangana    980       1906
+
+
+SpringBoot:
+===========
+100
+
+@SpringbootApplication:(@configuration,@component,@EnableAutoConfiguration)
+
+
+
+
+
+
+springboot features:
+===================
+
+1.Autoconfiguration:
+
+2.Embeded Server : tomcat,webloagic,websphere,glassfish......
+
+3.Starters :(dependencies)
+
+4.Actuators:  /heath    /beans  /env 
+
+
+
+sts tool/technology
+
+spring tool suit
+
+
+junit framework:
+
+
+
+webservices:
+============
+
+webservice is a technology. it is used to transform the information between one application to 
+   another aplication.
+
+
+
+
+                                 web services
+     ICICI ATM card(draw money)<===============> SBI ATM machine(server) <====>ICICI SERVER(7852)
+                           java        "json"      .NET                                
+ 
+
+JSON:JAVASCRIPT OBJECT NOTATION 
+
+  {
+    "eid":120,
+	"ename":"sathya",
+	"esal":45212,
+	"eadd":"hyd"
+  
+  }
+
+
+
+webservice are two types:
+=========================
+
+
+soap based : ejb :it will support only same ------>xml
+
+Restful websservices: it will not dependnt on which lang we are using:xml,html,json,text
+
+
+springbootRest:
+
+
+             webservices(REST)
+springboot <----------------->postman    {
+    java               json                        "eid":120,
+	                                       "ename":"sathya",
+	                                        "esal":45212,
+	                                        "eadd":"hyd"
+  
+                                          }
+addmobile(mobile emp); http:loaclhost:4523/mobile/addmobile
+
+
+  package:   controller(restapi(URL))                  
+
+
+postman 
+
+
+springbootjparest
+
+
+configuration 
+    configclass 
+entity
+   mobile class 
+dao
+  interface dao ==>methods are removng
+  implement dao(class)==> removing
+service 
+  interface service
+  implemnt service
+controller 
+  contrller class
+
+
+interface mobileDao extendsion CrudRepository<entityClass,primarykeycolumdatypewrpaperclass> {
+                                                  <mobile,Integer>
+c ==>create
+r-->read
+u->update
+d-->delete
+
+
+}
+
+
+JpaRepository
+
+
+
+
+
+
+casestudy:
+=========
+SpringBootDataJpaRest with postman:
+==================================
+
+MobileMangaementApplication:
+---------------------------------
+
+1. create package struture 
+  
+      1.1 com.mobile
+	  1.2 com.mobile.entity 
+	  1.3 com.mobile.service 
+	  1.4 com.mobile.dao 
+	  1.5 com.mobile.controller 
+
+
+
+
+1.1: configuration class by defalut we wil get at the time of project creation.
+
+1.2 com.std.entity
+
+    mobile details
+	    mobileId
+		mobileName
+		mobileTYPE
+		mobilePrice
+		mobileWarenty
+		mobileIMEINumber
+
+
+1.3 com.std.service 
+
+	Mobile addmobile(Mobile mobile);
+
+	Mobile updatemobile(Mobile mobile);
+
+	String deletemobile(int empId);
+
+	mobile getmobile(int empId);
+
+	List<Mobile> getAllmobiles();
+
+ 
+1.4 com.std.dao 
+	
+
+	Mobile addmobile(Mobile mobile);
+
+	Mobile updatemobile(Mobile mobile);
+
+	String deletemobile(int empId);
+
+	mobile getmobile(int empId);
+
+	List<Mobile> getAllmobiles();	
+										 
+1.5 com.std.controller
+
+    create a controller class with service methods 	 
+	 
+	 
+	 
+	 
+2. Use POSTMAN TO ENTER THE mobile DETAILS  
+	 
+	 
+	 
+	 docker:
+	 -------
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 applications
+	 operating system
+	 hardware
+	 
+	 
+	 
+	 microservices:
+	 ================
+	 
+	 Spring Security:
+	 ================
+	 
+	 providing security .
+	 
+	 
+	 registrtion:
+	 
+	 login : username password 
+	 
+	 
+	 
+	 authentication filters
+	 
+	 jwt:====json web tokens
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	 
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
